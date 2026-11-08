@@ -1,0 +1,5 @@
+{
+  "_aciklama": "Kullanıcının onayladığı eşleşmeler. birlestir: {\"boykot.co adı\": \"Boykot Dedektifi adı\"} (aynı marka). ayri: [[\"boykot.co adı\", \"Boykot Dedektifi adı\"]] (farklı markalar, bir daha sorulmaz).",
+  "birlestir": {},
+  "ayri": []
+}

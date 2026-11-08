@@ -1,0 +1,15 @@
+{
+  "_aciklama": "Ürün/alt marka adı → katalogdaki ana marka. Fotoğrafta yalnızca ürün adı okunduğunda (ör. 'Petibör', 'Gong') ana markayı bulmak için. Yalnızca TAM eşleşme kullanılır (yazım hatası toleransı yok: Eti 'Petito' ile başka ürünler karışmasın). Birden çok şirketin kullandığı genel adlar ('Pötibör / Petit Beurre', 'Form', 'Tutku', 'Bonbon', 'Gala'…) bilerek eklenmedi. Yeni eklerken kaynağını yazın.",
+  "Eti": {
+    "kaynak": ["https://www.yiltas.com/marka/eti", "https://www.yiltas.com/marka/eti?tp=2", "https://kureansiklopedi.com/en/detay/eti-c2da5"],
+    "urunler": ["Gong", "Burçak", "Topkek", "Popkek", "Benimo", "Browni", "Canga", "Cicibebe", "Hoşbeş", "Lifalif", "Paykek", "Tartini", "Bidolu", "Petito", "Karam", "Maksimus"]
+  },
+  "Ülker": {
+    "kaynak": ["https://www.akakce.com/ulker,3.html", "https://trademark.justia.com/865/81/ulker-86581792.html"],
+    "urunler": ["Biskrem", "Çikolatin", "Çiziviç", "Çokokrem", "Çokomel", "Çokonat", "Çokoprens", "Coco Star", "Dankek", "Halley", "Hanımeller", "Kekstra", "Lokumcuk", "Piko", "Rulokat"]
+  },
+  "Torku": {
+    "kaynak": ["https://www.akakce.com/torku.html", "https://trademarks.justia.com/791/93/torku-79193716.html"],
+    "urunler": ["Banada", "Miniki", "Kremalım"]
+  }
+}
