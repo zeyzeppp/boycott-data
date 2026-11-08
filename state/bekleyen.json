@@ -1,0 +1,47 @@
+[
+ {
+  "benzerlik": 0.86,
+  "boykotco": "gs store",
+  "dedektif": "b g store"
+ },
+ {
+  "benzerlik": 0.96,
+  "boykotco": "caribou coffe",
+  "dedektif": "caribou coffee"
+ },
+ {
+  "benzerlik": 0.92,
+  "boykotco": "americal girl",
+  "dedektif": "american girl"
+ },
+ {
+  "benzerlik": 0.93,
+  "boykotco": "chappie",
+  "dedektif": "chappies"
+ },
+ {
+  "benzerlik": 0.67,
+  "boykotco": "hsbc",
+  "dedektif": "hsbc bank"
+ },
+ {
+  "benzerlik": 0.89,
+  "boykotco": "sana",
+  "dedektif": "isana"
+ },
+ {
+  "benzerlik": 0.91,
+  "boykotco": "coca cola company",
+  "dedektif": "the coca cola company"
+ },
+ {
+  "benzerlik": 0.77,
+  "boykotco": "bizim",
+  "dedektif": "bizim yag"
+ },
+ {
+  "benzerlik": 0.92,
+  "boykotco": "tom ford beauty",
+  "dedektif": "tom frod beauty"
+ }
+]

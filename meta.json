@@ -1,0 +1,12 @@
+{
+ "brandCount": 3231,
+ "catalog": "catalog.json",
+ "catalogSha256": "a139d9de6189fbd3e7639b2fee55972ea7b9f6d4503cf2e3d6b8987755a7862f",
+ "contentSha256": "c9dbe70d510f01a7d2f19059a0c6ef63df521cbdf7b1720d1b1563dfdf0d4b6c",
+ "generatedAt": "2026-11-08T11:09:42Z",
+ "sourceCounts": {
+  "boykotco": 931,
+  "boykotdedektifi": 3157
+ },
+ "version": 2026110811
+}
