@@ -45,6 +45,7 @@ class ParseTests(unittest.TestCase):
         self.assertEqual([c["name"] for c in cards], ["Kahve Dünyası", "Tchibo", "Lay's"])
         self.assertEqual(cards[0]["url"], "https://www.boykot.co/d/kahve-dunyasi")
         self.assertIn("gstatic", cards[0]["logo"])
+        self.assertEqual(cards[2]["logo"], "https://www.boykot.co/assets/images/logo/brand4/lays.webp")  # göreli adres
 
     def test_verdicts(self):
         self.assertEqual(verdict("Uygun"), "safe")
@@ -101,6 +102,15 @@ class MergeTests(unittest.TestCase):
         self.assertEqual(by["Eti"]["products"], ["Gong"])
         self.assertIn("tchibo", ids)                                     # yeni kimlik kaydedilir
 
+    def test_logo_priority(self):
+        bd = {"ulker": bd_entry("Ülker")}
+        bc = {"ulker": dict(bc_entry("Ülker"), logo="https://www.boykot.co/ulker.png"),
+              "tchibo": dict(bc_entry("Tchibo"), logo="https://www.boykot.co/tchibo.png")}
+        brands, _ = build(bd, bc, {}, {}, {}, {})
+        by = {b["name"]: b for b in brands}
+        self.assertEqual(by["Ülker"]["_logo_src"], "https://boykotservisi.com/ulker.webp")   # aynı marka → Dedektif logosu
+        self.assertEqual(by["Tchibo"]["_logo_src"], "https://www.boykot.co/tchibo.png")      # yalnız boykot.co'da → onun logosu
+
     def test_removal_after_two_runs(self):
         e = bd_entry("Twix")
         out, st = carry_over({"twix": e}, {}, "boykotdedektifi")
@@ -118,7 +128,7 @@ class FakeHttp:
         self.pages = pages
         self.requests = 0
 
-    def get(self, url, binary=False):
+    def get(self, url, binary=False, polite=True):
         self.requests += 1
         for k, v in self.pages.items():
             if url.startswith(k):

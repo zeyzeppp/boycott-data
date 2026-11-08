@@ -76,12 +76,14 @@ class Http:
             time.sleep(self.delay - dt)
         self._last = time.time()
 
-    def get(self, url: str, binary: bool = False):
+    def get(self, url: str, binary: bool = False, polite: bool = True):
         err = None
-        for attempt in range(self.retries):
-            self._wait()
+        retries = self.retries if polite else 1          # üçüncü taraf logo sunucuları: tek deneme
+        for attempt in range(retries):
+            if polite:
+                self._wait()
             try:
-                r = self.s.get(url, timeout=self.timeout)
+                r = self.s.get(url, timeout=self.timeout if polite else 15)
                 self.requests += 1
                 if r.status_code == 200:
                     return r.content if binary else r.text
@@ -90,5 +92,6 @@ class Http:
                 err = f"HTTP {r.status_code}"
             except requests.RequestException as e:
                 err = str(e)
-            time.sleep(2 * (attempt + 1))
+            if attempt + 1 < retries:
+                time.sleep(2 * (attempt + 1))
         raise RuntimeError(f"{url}: {err}")

@@ -144,7 +144,8 @@ def main():
     # 5) Logolar
     logo_state = read(p("state", "logolar.json"), {})
     if not a.no_logos:
-        fetched, failed = update_logos(brands, http, root, logo_state, log)
+        # Süre sınırı: ilk taramada ~3500 logo var; yetişmeyenler sonraki gecelere kalır (Actions süre sınırı)
+        fetched, failed = update_logos(brands, http, root, logo_state, log, budget_s=45 * 60)
         report.append(f"- Logolar: {fetched} yeni/güncellenen, {failed} alınamadı")
     else:
         for b in brands:

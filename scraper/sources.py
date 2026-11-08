@@ -54,7 +54,7 @@ def bd_parse_category_page(html: str):
             "name": clean_text(h3.get_text()),
             "label": clean_text(badge.get_text()) if badge else "",
             "url": urljoin(BD_BASE, a["href"]),
-            "logo": img.get("src") if img else None,
+            "logo": urljoin(BD_BASE, img["src"]) if img and img.get("src") else None,
             "meta": meta,
             "desc": desc[:300],
         })
@@ -138,7 +138,7 @@ def bc_parse_category_page(html: str):
         p = row.find("p")
         cards.append({
             "name": name, "url": url,
-            "logo": img.get("src") if img else None,
+            "logo": urljoin(BC_BASE, img["src"]) if img and img.get("src") else None,
             "desc": clean_text(p.get_text())[:300] if p else "",
         })
     return cards
