@@ -102,6 +102,13 @@ class MergeTests(unittest.TestCase):
         self.assertEqual(by["Eti"]["products"], ["Gong"])
         self.assertIn("tchibo", ids)                                     # yeni kimlik kaydedilir
 
+    def test_user_can_split_auto_match(self):
+        bd = {"dove": bd_entry("Dove")}
+        bc = {"dove": bc_entry("Dove")}
+        brands, _ = build(bd, bc, {"ayri": [["Dove", "Dove"]]}, {}, {}, {})
+        self.assertEqual(len(brands), 2)                                   # iki ayrı kayıt
+        self.assertEqual(sorted(len(b["sources"]) for b in brands), [1, 1])
+
     def test_logo_priority(self):
         bd = {"ulker": bd_entry("Ülker")}
         bc = {"ulker": dict(bc_entry("Ülker"), logo="https://www.boykot.co/ulker.png"),

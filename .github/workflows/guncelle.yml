@@ -1,12 +1,14 @@
-name: Gece taraması
+name: Gece taraması (şu an kapalı)
 
 on:
-  schedule:
-    - cron: "17 0 * * *"   # her gün 03:17 (Türkiye saati)
-  workflow_dispatch:
-  push:                    # tarayıcı ya da ayarlar (ör. eşleşme kararları) değişince hemen çalışır
-    branches: [main]
-    paths: ["scraper/**", "config/**", ".github/workflows/**"]
+  # GEÇİCİ: canlı tarama kapalı — katalog eski listeden (scraper/eski_liste.py) üretiliyor.
+  # Canlı taramaya geçerken aşağıdaki schedule/push satırlarını geri açın.
+  # schedule:
+  #   - cron: "17 0 * * *"   # her gün 03:17 (Türkiye saati)
+  # push:
+  #   branches: [main]
+  #   paths: ["scraper/**", "config/**", ".github/workflows/**"]
+  workflow_dispatch:         # yalnızca elle: Actions → Gece taraması → Run workflow
 
 permissions:
   contents: write

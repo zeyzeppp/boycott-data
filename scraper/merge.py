@@ -15,6 +15,7 @@ from common import compact, metin_temizle, verdict
 SOURCES = ("boykotdedektifi", "boykotco")
 MISSING_LIMIT = 2            # bu kadar tarama üst üste görünmezse kaldırılır
 SIMILAR_RATIO = 0.85         # şüpheli eşleşme eşiği (boşluksuz anahtarlar)
+SEPARATE_PREFIX = "boykotco:"   # aynı adlı ama kullanıcının "farklı" dediği boykot.co markası için anahtar
 ID_NAMESPACE = uuid.UUID("6f1c2a52-6d1e-4b8e-9a52-0b5f7c1d3e21")
 
 
@@ -47,10 +48,13 @@ def resolve_keys(bd, bc, decisions):
     for k in bc:
         if k in merge_map and merge_map[k] in bd:
             mapping[k] = merge_map[k]
-        elif k in bd:
-            mapping[k] = k
-        elif compact(k) in bd_compact:
-            mapping[k] = bd_compact[compact(k)]
+            continue
+        auto = k if k in bd else bd_compact.get(compact(k))
+        if auto is not None and frozenset((k, auto)) not in separate:
+            mapping[k] = auto
+        elif auto is not None:
+            # Kullanıcı "aynı ad ama farklı marka" dedi: boykot.co kaydı ayrı marka olarak kalır
+            mapping[k] = SEPARATE_PREFIX + k
         else:
             mapping[k] = k
 
@@ -58,7 +62,7 @@ def resolve_keys(bd, bc, decisions):
     only_bd = [k for k in bd if k not in matched_bd]
     pending = []
     for k in bc:
-        if mapping[k] in bd:
+        if mapping[k] in bd or mapping[k].startswith(SEPARATE_PREFIX):
             continue
         ck = compact(k)
         best = None

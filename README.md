@@ -1,6 +1,10 @@
 # boycott-data
 
-BOYCOTT uygulamasının (iOS / Android) marka verisi. Her gece otomatik güncellenir.
+BOYCOTT uygulamasının (iOS / Android) marka verisi.
+
+> **Şu anki mod: eski liste.** Katalog `kaynak/guncellenmis_liste.json`'dan (Boykot Dedektifi + bykt.org, önceden eşleştirilmiş)
+> `python scraper/eski_liste.py` ile üretiliyor; gece taraması kapalı. Canlı taramaya geçmek için
+> `.github/workflows/guncelle.yml`'deki `schedule` satırlarını açın.
 
 | Dosya | İçerik |
 |---|---|
