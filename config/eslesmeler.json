@@ -1,5 +1,34 @@
 {
   "_aciklama": "Kullanıcının onayladığı eşleşmeler. birlestir: {\"boykot.co adı\": \"Boykot Dedektifi adı\"} (aynı marka). ayri: [[\"boykot.co adı\", \"Boykot Dedektifi adı\"]] (farklı markalar, bir daha sorulmaz).",
-  "birlestir": {},
-  "ayri": []
+  "birlestir": {
+    "caribou coffe": "caribou coffee",
+    "coca cola company": "the coca cola company",
+    "tom ford beauty": "tom frod beauty"
+  },
+  "ayri": [
+    [
+      "gs store",
+      "b g store"
+    ],
+    [
+      "americal girl",
+      "american girl"
+    ],
+    [
+      "chappie",
+      "chappies"
+    ],
+    [
+      "hsbc",
+      "hsbc bank"
+    ],
+    [
+      "sana",
+      "isana"
+    ],
+    [
+      "bizim",
+      "bizim yag"
+    ]
+  ]
 }
