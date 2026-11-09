@@ -76,7 +76,12 @@ jobs:
             echo "Değişiklik yok."
           else
             git commit -q -m "veri: $(python -c 'import json;m=json.load(open("meta.json"));print(m["version"], m["brandCount"], "marka")')"
-            git pull --rebase -q && git push
+            # GitHub zaman zaman gönderimi geçici bir hatayla reddediyor ("fatal error in commit_refs_rules"): birkaç kez dene
+            for i in 1 2 3 4 5; do
+              if git pull --rebase -q && git push; then exit 0; fi
+              echo "Gönderim denemesi $i başarısız; bekleniyor…"; sleep $((i * 30))
+            done
+            exit 1
           fi
 
       - name: Bildirim (Issue)
