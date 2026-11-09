@@ -10142,6 +10142,17 @@
     "updated_at": "2026-11-09T18:57:05.429652"
   },
   {
+    "id": "80fd1c1d-ec5f-5267-ae41-103b8f09208c",
+    "marka_adi": "Disney",
+    "kategori": "İşletme",
+    "marka_gorselinin_dosya_yolu": "https://boykotservisi.com/uploads/brands/disney-140.webp",
+    "boykot_dedektifi_boykot_durumu": "Boykot",
+    "boykot_dedektifi_kanit_url": "https://boykotdedektifi.com/b/disney-140",
+    "bykt_org_boykot_durumu": null,
+    "bykt_org_kanit_url": null,
+    "updated_at": "2026-11-09T19:53:32.187894"
+  },
+  {
     "id": "09e05d86-b8ac-4135-b1ba-c45a05740b90",
     "marka_adi": "Disney Junior",
     "kategori": "Eğlence",
@@ -10239,6 +10250,17 @@
     "bykt_org_boykot_durumu": "Kesin Boykot",
     "bykt_org_kanit_url": "https://bykt.org/marka/dji",
     "updated_at": "2026-11-09T18:57:05.429652"
+  },
+  {
+    "id": "497f428a-e8ed-5ff5-9ddb-4b519e233577",
+    "marka_adi": "Djı",
+    "kategori": "Teknolojik Cihazlar",
+    "marka_gorselinin_dosya_yolu": "https://boykotservisi.com/uploads/brands/dji-2122.webp",
+    "boykot_dedektifi_boykot_durumu": "Boykot",
+    "boykot_dedektifi_kanit_url": "https://boykotdedektifi.com/b/dji-2122",
+    "bykt_org_boykot_durumu": null,
+    "bykt_org_kanit_url": null,
+    "updated_at": "2026-11-09T19:53:32.187894"
   },
   {
     "id": "848f8745-6e91-4ada-98da-9dcdb1684c99",
@@ -17226,6 +17248,17 @@
     "updated_at": "2026-11-09T18:57:05.429652"
   },
   {
+    "id": "684c7ff1-d52b-5a67-b641-ea23ba268251",
+    "marka_adi": "Ivory",
+    "kategori": "Sabun",
+    "marka_gorselinin_dosya_yolu": "https://boykotservisi.com/uploads/brands/ivory-1474.webp",
+    "boykot_dedektifi_boykot_durumu": "Boykot",
+    "boykot_dedektifi_kanit_url": "https://boykotdedektifi.com/b/ivory-1474",
+    "bykt_org_boykot_durumu": null,
+    "bykt_org_kanit_url": null,
+    "updated_at": "2026-11-09T19:53:32.187894"
+  },
+  {
     "id": "fc22ebe3-db28-5221-9131-dd1c229b650b",
     "marka_adi": "iyzico",
     "kategori": "Finans",
@@ -18808,6 +18841,17 @@
     "bykt_org_boykot_durumu": null,
     "bykt_org_kanit_url": null,
     "updated_at": "2026-11-09T18:57:05.429652"
+  },
+  {
+    "id": "3ba52462-6d08-510b-a5cb-e7646b3d2919",
+    "marka_adi": "Kiwi",
+    "kategori": "Teknolojik Cihazlar",
+    "marka_gorselinin_dosya_yolu": "https://boykotservisi.com/uploads/brands/kiwi-2842.webp",
+    "boykot_dedektifi_boykot_durumu": "Uygun",
+    "boykot_dedektifi_kanit_url": "https://boykotdedektifi.com/b/kiwi2-2842",
+    "bykt_org_boykot_durumu": null,
+    "bykt_org_kanit_url": null,
+    "updated_at": "2026-11-09T19:53:32.187894"
   },
   {
     "id": "178e12b0-2d87-4477-bc57-09539ad6960b",
@@ -20955,6 +20999,17 @@
     "updated_at": "2026-11-09T18:57:05.429652"
   },
   {
+    "id": "caa08b1f-73c1-5e73-a4dc-b4df727cccd8",
+    "marka_adi": "L’Oréal Paris",
+    "kategori": "Kozmetik",
+    "marka_gorselinin_dosya_yolu": "https://boykotservisi.com/uploads/brands/l-oreal-paris-1538.webp",
+    "boykot_dedektifi_boykot_durumu": "Boykot",
+    "boykot_dedektifi_kanit_url": "https://boykotdedektifi.com/b/l-oreal-paris-1538",
+    "bykt_org_boykot_durumu": null,
+    "bykt_org_kanit_url": null,
+    "updated_at": "2026-11-09T19:53:32.187894"
+  },
+  {
     "id": "1ea21609-2fc0-43ab-b025-c05cf12b67fe",
     "marka_adi": "Loreal Paris Company",
     "kategori": "Şirket",
@@ -21739,7 +21794,7 @@
     "id": "fd2ee0a6-0b14-4d0f-b82d-a03b9c46e0f1",
     "marka_adi": "Marathon",
     "kategori": "Temizlik",
-    "marka_gorselinin_dosya_yolu": null,
+    "marka_gorselinin_dosya_yolu": "https://bykt.org/logos-card/marathon.webp",
     "boykot_dedektifi_boykot_durumu": null,
     "boykot_dedektifi_kanit_url": null,
     "bykt_org_boykot_durumu": "Kesin Boykot",
