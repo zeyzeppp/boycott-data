@@ -10138,8 +10138,8 @@
     "boykot_dedektifi_boykot_durumu": "Boykot",
     "boykot_dedektifi_kanit_url": "https://boykotdedektifi.com/b/disney-plus-2735",
     "bykt_org_boykot_durumu": "Kesin Boykot",
-    "bykt_org_kanit_url": "https://bykt.org/marka/disney",
-    "updated_at": "2026-11-09T18:57:05.429652"
+    "bykt_org_kanit_url": "https://bykt.org/marka/disney-plus",
+    "updated_at": "2026-11-09T20:41:18.152271"
   },
   {
     "id": "80fd1c1d-ec5f-5267-ae41-103b8f09208c",
@@ -10148,9 +10148,9 @@
     "marka_gorselinin_dosya_yolu": "https://boykotservisi.com/uploads/brands/disney-140.webp",
     "boykot_dedektifi_boykot_durumu": "Boykot",
     "boykot_dedektifi_kanit_url": "https://boykotdedektifi.com/b/disney-140",
-    "bykt_org_boykot_durumu": null,
-    "bykt_org_kanit_url": null,
-    "updated_at": "2026-11-09T19:53:32.187894"
+    "bykt_org_boykot_durumu": "Kesin Boykot",
+    "bykt_org_kanit_url": "https://bykt.org/marka/disney",
+    "updated_at": "2026-11-09T20:41:18.152271"
   },
   {
     "id": "09e05d86-b8ac-4135-b1ba-c45a05740b90",
@@ -10161,17 +10161,6 @@
     "boykot_dedektifi_kanit_url": "https://boykotdedektifi.com/b/disney-junior-262",
     "bykt_org_boykot_durumu": "Kesin Boykot",
     "bykt_org_kanit_url": "https://bykt.org/marka/disney-junior",
-    "updated_at": "2026-11-09T18:57:05.429652"
-  },
-  {
-    "id": "71b527af-02e7-4ff2-a1b1-3717450a85de",
-    "marka_adi": "Disney+ Plus",
-    "kategori": "Medya / Eğlence",
-    "marka_gorselinin_dosya_yolu": "https://bykt.org/logos-card/disney-plus.webp",
-    "boykot_dedektifi_boykot_durumu": null,
-    "boykot_dedektifi_kanit_url": null,
-    "bykt_org_boykot_durumu": "Kesin Boykot",
-    "bykt_org_kanit_url": "https://bykt.org/marka/disney-plus",
     "updated_at": "2026-11-09T18:57:05.429652"
   },
   {

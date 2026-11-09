@@ -1,13 +1,13 @@
 {
- "brandCount": 3515,
+ "brandCount": 3514,
  "catalog": "catalog.json",
- "catalogSha256": "59c34185b14403bdb4e331d57bd36cee0ee173d59e23c2b7e02b21ed2ca2f60e",
- "contentSha256": "c5a0598a93757e75da83a5b2846e2409c0f080ec4aeb921551799dfc233d5fe6",
- "generatedAt": "2026-11-09T19:59:48Z",
+ "catalogSha256": "ad9e33c811d60d36c1e51684663129c9683730bff3491576007cd39c77f0afc8",
+ "contentSha256": "4b1b70d74511fd9819650f404f35c5b4dba001743d08ef7d6e519105edc96d01",
+ "generatedAt": "2026-11-09T20:41:18Z",
  "mode": "canli-durum",
  "sourceCounts": {
   "boykotdedektifi": 3169,
-  "bykt": 1303
+  "bykt": 1302
  },
- "version": 2026110919
+ "version": 2026110920
 }
