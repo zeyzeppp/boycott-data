@@ -198,6 +198,16 @@ def birlestir(bd, by, old, dec, yeni=True, yalniz_durum=False, now=None):
 
     # 3) Elle kararlar
     separate = {(uk(y), uk(d)) for y, d in dec.get("ayri", [])}
+    # Önceden (otomatik) birleşmiş ama sonradan "ayrı" denen satırlar ikiye ayrılır
+    for r in list(rows):
+        if r.bd and r.by and (uk(r.by["kanit_url"]), uk(r.bd["kanit_url"])) in separate:
+            nr = Row(id=None, name=r.by["marka_adi"], cat=r.by.get("kategori"), img=r.by.get("resim_url"))
+            nr.by = r.by
+            r.by, r.old_by = None, None
+            if r.old is not None:
+                r.old = dict(r.old, **{F["by"][0]: None, F["by"][1]: None})
+            rows.append(nr)
+            rep.append(f"ayrıldı (sizin kararınız): {nr.name} (bykt) ↔ {r.name} (Dedektif)")
     for y, d in dec.get("birlestir", []):
         ry, rd = find_row("by", y), find_row("bd", d)
         if not ry or not rd:
