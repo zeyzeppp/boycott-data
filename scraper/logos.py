@@ -33,7 +33,7 @@ def update_logos(brands, http, root, state, log=print, limit=None, budget_s=None
     for b in brands:
         src = b.get("_logo_src")
         path = os.path.join(root, "logos", f"{b['id']}.webp")
-        have = os.path.exists(path)
+        have = os.path.exists(path) and os.path.getsize(path) > 0   # boş dosya = logo yok
         prev = state.get(b["id"]) or ""
         failed_recently = prev.startswith("!") and prev.split("!", 2)[-1] == src and today - int(prev.split("!")[1]) < 7
         if (src and (prev != src or not have) and not failed_recently and (limit is None or fetched < limit)

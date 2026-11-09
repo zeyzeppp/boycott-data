@@ -1,14 +1,24 @@
-name: Gece taraması (şu an kapalı)
+name: Gece güncellemesi
 
+# Her gece yalnızca boykot durumları güncellenir (scraper/gece.py).
+# Pazartesi geceleri ayrıca yeni markalar eklenir; emin olunamayanlar sorular/ klasöründe size sorulur.
+# Kararlarınızı sorular/eslesme_kararlari.json olarak yüklediğinizde de otomatik çalışır.
 on:
-  # GEÇİCİ: canlı tarama kapalı — katalog eski listeden (scraper/eski_liste.py) üretiliyor.
-  # Canlı taramaya geçerken aşağıdaki schedule/push satırlarını geri açın.
-  # schedule:
-  #   - cron: "17 0 * * *"   # her gün 03:17 (Türkiye saati)
-  # push:
-  #   branches: [main]
-  #   paths: ["scraper/**", "config/**", ".github/workflows/**"]
-  workflow_dispatch:         # yalnızca elle: Actions → Gece taraması → Run workflow
+  schedule:
+    - cron: "17 0 * * *"     # her gün 03:17 (Türkiye saati)
+  push:
+    branches: [main]
+    paths: ["sorular/eslesme_kararlari.json"]
+  workflow_dispatch:
+    inputs:
+      haftalik:
+        description: "Yeni markaları da ekle (haftalık eşleştirme)"
+        type: boolean
+        default: false
+      zorla:
+        description: "Durum değişikliği sınırını yok say (değişiklikleri kontrol ettiyseniz)"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -19,9 +29,9 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  tara:
+  guncelle:
     runs-on: ubuntu-latest
-    timeout-minutes: 150
+    timeout-minutes: 120
     steps:
       - name: Depoyu indir
         uses: actions/checkout@v4
@@ -36,14 +46,20 @@ jobs:
       - name: Bağımlılıklar
         run: pip install -r scraper/requirements.txt
 
-      - name: Testler (internetsiz, örnek sayfalarla)
+      - name: Testler (internetsiz)
         run: python -m unittest discover -s scraper/tests
 
-      - name: Tara ve birleştir
-        id: tara
+      - name: Güncelle
+        id: run
+        env:
+          HAFTALIK: ${{ inputs.haftalik }}
+          ZORLA: ${{ inputs.zorla }}
         run: |
           set +e
-          python scraper/run.py
+          ARGS=""
+          if [ "$(TZ=Europe/Istanbul date +%u)" = "1" ] || [ "$HAFTALIK" = "true" ]; then ARGS="$ARGS --haftalik"; fi
+          if [ "$ZORLA" = "true" ]; then ARGS="$ARGS --zorla"; fi
+          python scraper/gece.py $ARGS
           echo "code=$?" >> "$GITHUB_OUTPUT"
 
       - name: Özet
@@ -51,37 +67,34 @@ jobs:
         run: test -f report.md && cat report.md >> "$GITHUB_STEP_SUMMARY" || true
 
       - name: Yayınla
-        if: steps.tara.outputs.code == '0'
+        if: steps.run.outputs.code == '0'
         run: |
           git config user.name "boycott-data-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add catalog.json meta.json logos state
+          git add -A catalog.json meta.json logos state kaynak config sorular
           if git diff --cached --quiet; then
             echo "Değişiklik yok."
           else
             git commit -q -m "veri: $(python -c 'import json;m=json.load(open("meta.json"));print(m["version"], m["brandCount"], "marka")')"
-            git push
+            git pull --rebase -q && git push
           fi
 
       - name: Bildirim (Issue)
         if: always()
         env:
           GH_TOKEN: ${{ github.token }}
-          CODE: ${{ steps.tara.outputs.code }}
+          CODE: ${{ steps.run.outputs.code }}
         run: |
-          test -f report.md || echo "Tarama hata verdi; kayıt: $GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID" > report.md
-          gh label create tarama --color d93f0b --description "Gece taraması bildirimi" --force >/dev/null
+          test -f report.md || echo "Güncelleme hata verdi; kayıt: $GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID" > report.md
+          gh label create tarama --color d93f0b --description "Gece güncellemesi bildirimi" --force >/dev/null
           NUM=$(gh issue list --label tarama --state open --json number -q '.[0].number')
-          PENDING=$(python -c 'import json,os;print(len(json.load(open("state/bekleyen.json"))) if os.path.exists("state/bekleyen.json") else 0)')
-          if [ "$CODE" != "0" ] || [ "$PENDING" != "0" ]; then
+          if [ "$CODE" != "0" ] || [ -f sorular/eslestirme_sorular.html ]; then
             if [ -z "$NUM" ]; then
-              gh issue create --label tarama --title "Tarama: ilginiz gerekiyor" --body-file report.md
+              gh issue create --label tarama --title "Veri güncellemesi: ilginiz gerekiyor" --body-file report.md
             else
               gh issue edit "$NUM" --body-file report.md
-              if [ "$CODE" != "0" ]; then
-                gh issue comment "$NUM" --body "⚠️ Bu geceki tarama yayınlanmadı. Ayrıntılar yukarıda."
-              fi
+              [ "$CODE" != "0" ] && gh issue comment "$NUM" --body "⚠️ Bu geceki güncelleme yayınlanmadı. Ayrıntılar yukarıda." || true
             fi
           elif [ -n "$NUM" ]; then
-            gh issue close "$NUM" --comment "Tarama sorunsuz; onay bekleyen eşleşme kalmadı."
+            gh issue close "$NUM" --comment "Güncelleme sorunsuz; bekleyen soru kalmadı."
           fi

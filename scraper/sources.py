@@ -66,7 +66,7 @@ def bd_parse_category_page(html: str):
     return cards, has_next
 
 
-def bd_crawl(http, log=print, max_pages=60):
+def bd_crawl(http, log=print, max_pages=60, key_by_url=False):
     """Tüm kategorileri sayfa sayfa gezer. Markanın kategorileri: göründüğü tüm kategori sayfaları
     (kart üstündeki sırayla; ilki ana kategori)."""
     cats = bd_parse_categories(http.get(f"{BD_BASE}/categories") or "")
@@ -82,7 +82,7 @@ def bd_crawl(http, log=print, max_pages=60):
                 break
             cards, has_next = bd_parse_category_page(html)
             for c in cards:
-                key = metin_temizle(c["name"])
+                key = c["url"] if key_by_url else metin_temizle(c["name"])   # aynı adlı iki marka olabilir
                 if not key:
                     continue
                 b = brands.get(key)
