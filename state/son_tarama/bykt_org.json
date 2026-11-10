@@ -723,8 +723,8 @@
   },
   {
    "marka_adi": "LC Waikiki (LCW)",
-   "kategori": "Giyim - Tekstil",
-   "boykot_durumu": "Alınabilir",
+   "kategori": "Giyim",
+   "boykot_durumu": "İnsafa Bağlı",
    "resim_url": "https://images.seeklogo.com/logo-png/17/1/lc-waikiki-logo-png_seeklogo-171648.png",
    "kanit_url": "https://bykt.org/marka/lc-waikiki-lcw"
   },
@@ -1145,7 +1145,7 @@
    "marka_adi": "President",
    "kategori": "Gıda",
    "boykot_durumu": "Kesin Boykot",
-   "resim_url": "https://www.presidentpeynir.com.tr/_DEFAULT/assets/images/president-logo__header-3.png?v=20251202160844",
+   "resim_url": "https://images.seeklogo.com/logo-png/20/1/president-logo-png_seeklogo-203549.png",
    "kanit_url": "https://bykt.org/marka/president"
   },
   {
@@ -1359,11 +1359,11 @@
    "kanit_url": "https://bykt.org/marka/kgm-ssangyong"
   },
   {
-   "marka_adi": "Damla Maden Suyu",
+   "marka_adi": "Damla Minera",
    "kategori": "İçecek",
    "boykot_durumu": "Kesin Boykot",
-   "resim_url": "https://images.seeklogo.com/logo-png/18/1/damla-dogal-kaynak-suyu-logo-png_seeklogo-185230.png",
-   "kanit_url": "https://bykt.org/marka/damla-maden-suyu"
+   "resim_url": "https://www.coca-cola.com/content/dam/onexp/tr/tr/brands/brands-sp/tr_damla_brandlogo_432x180.png",
+   "kanit_url": "https://bykt.org/marka/damla-minera"
   },
   {
    "marka_adi": "Vivident",
@@ -1434,6 +1434,13 @@
    "boykot_durumu": "Kesin Boykot",
    "resim_url": "https://images.seeklogo.com/logo-png/34/1/pattex-logo-png_seeklogo-349591.png",
    "kanit_url": "https://bykt.org/marka/pattex"
+  },
+  {
+   "marka_adi": "Lee",
+   "kategori": "Giyim",
+   "boykot_durumu": "Kesin Boykot",
+   "resim_url": "https://images.seeklogo.com/logo-png/8/1/lee-logo-png_seeklogo-83042.png",
+   "kanit_url": "https://bykt.org/marka/lee"
   },
   {
    "marka_adi": "Penaten",
@@ -1707,6 +1714,13 @@
    "boykot_durumu": "Alınabilir",
    "resim_url": "https://images.seeklogo.com/logo-png/52/1/minika-cocuk-logo-png_seeklogo-520742.png",
    "kanit_url": "https://bykt.org/marka/minika"
+  },
+  {
+   "marka_adi": "Helly Hansen",
+   "kategori": "Giyim",
+   "boykot_durumu": "Kesin Boykot",
+   "resim_url": "https://images.seeklogo.com/logo-png/16/1/helly-hansen-logo-png_seeklogo-169458.png",
+   "kanit_url": "https://bykt.org/marka/helly-hansen"
   },
   {
    "marka_adi": "Meysu",
@@ -2710,11 +2724,11 @@
    "kanit_url": "https://bykt.org/marka/hislon"
   },
   {
-   "marka_adi": "Rama (Margarin)",
+   "marka_adi": "Rama",
    "kategori": "Gıda",
    "boykot_durumu": "Kesin Boykot",
-   "resim_url": "https://www.rama.com/en-sa/-/media/Project/Upfield/Brands/Rama/Rama-SA/Logos/logo-black.svg?h=128&iar=0&w=210&rev=5bcc5e7293764ebbbe3b9f7f82b96c80",
-   "kanit_url": "https://bykt.org/marka/rama-margarin"
+   "resim_url": "https://images.seeklogo.com/logo-png/38/1/rama-logo-png_seeklogo-380696.png",
+   "kanit_url": "https://bykt.org/marka/rama"
   },
   {
    "marka_adi": "Corega",
@@ -2846,7 +2860,7 @@
    "marka_adi": "Becel",
    "kategori": "Gıda",
    "boykot_durumu": "Kesin Boykot",
-   "resim_url": "https://upload.wikimedia.org/wikipedia/tr/thumb/a/ad/Becel_Logo.png/250px-Becel_Logo.png",
+   "resim_url": "https://images.seeklogo.com/logo-png/22/1/becel-logo-png_seeklogo-224567.png",
    "kanit_url": "https://bykt.org/marka/becel"
   },
   {
@@ -3333,6 +3347,13 @@
    "kanit_url": "https://bykt.org/marka/the-ordinary"
   },
   {
+   "marka_adi": "Kınık",
+   "kategori": "İçecek",
+   "boykot_durumu": "Kesin Boykot",
+   "resim_url": "https://images.seeklogo.com/logo-png/65/1/kinik-dogal-maden-suyu-logo-png_seeklogo-656819.png",
+   "kanit_url": "https://bykt.org/marka/kınık"
+  },
+  {
    "marka_adi": "Calvin Klein",
    "kategori": "Giyim - Tekstil",
    "boykot_durumu": "Kesin Boykot",
@@ -3501,13 +3522,6 @@
    "kanit_url": "https://bykt.org/marka/dickies"
   },
   {
-   "marka_adi": "Damla Minera",
-   "kategori": "İçecek",
-   "boykot_durumu": "Kesin Boykot",
-   "resim_url": "https://www.coca-cola.com/content/dam/onexp/tr/tr/logo-color/damla-minera_brandlogo_color_v3.png",
-   "kanit_url": "https://bykt.org/marka/damla-minera"
-  },
-  {
    "marka_adi": "GAP",
    "kategori": "Giyim - Tekstil",
    "boykot_durumu": "Kesin Boykot",
@@ -3618,6 +3632,13 @@
    "boykot_durumu": "İnsafa Bağlı",
    "resim_url": "https://images.seeklogo.com/logo-png/46/1/reeder-logo-png_seeklogo-467460.png",
    "kanit_url": "https://bykt.org/marka/reeder"
+  },
+  {
+   "marka_adi": "Lefties",
+   "kategori": "Giyim",
+   "boykot_durumu": "Kesin Boykot",
+   "resim_url": "https://images.seeklogo.com/logo-png/34/1/lefties-logo-png_seeklogo-341620.png",
+   "kanit_url": "https://bykt.org/marka/lefties"
   },
   {
    "marka_adi": "JAB Holding",
@@ -4565,13 +4586,6 @@
    "kanit_url": "https://bykt.org/marka/anadolu-isuzu"
   },
   {
-   "marka_adi": "Morfose",
-   "kategori": "Kişisel Bakım",
-   "boykot_durumu": "Alınabilir",
-   "resim_url": "https://images.seeklogo.com/logo-png/39/1/morfose-logo-png_seeklogo-399315.png",
-   "kanit_url": "https://bykt.org/marka/morfose"
-  },
-  {
    "marka_adi": "Jacobs",
    "kategori": "Kahve İşletme",
    "boykot_durumu": "Kesin Boykot",
@@ -4742,7 +4756,7 @@
   {
    "marka_adi": "Atelier Rebul",
    "kategori": "Kozmetik",
-   "boykot_durumu": "Kesin Boykot",
+   "boykot_durumu": "Alınabilir",
    "resim_url": "https://yalikavakmarina.com.tr/wp-content/uploads/2023/11/ateiler.png",
    "kanit_url": "https://bykt.org/marka/atelier-rebul"
   },
@@ -4843,6 +4857,13 @@
    "boykot_durumu": "Kesin Boykot",
    "resim_url": "https://images.seeklogo.com/logo-png/5/1/ferrero-logo-png_seeklogo-53781.png",
    "kanit_url": "https://bykt.org/marka/ferrero"
+  },
+  {
+   "marka_adi": "Derimod",
+   "kategori": "Giyim - Ayakkabı",
+   "boykot_durumu": "İnsafa Bağlı",
+   "resim_url": "https://images.seeklogo.com/logo-png/4/1/derimod-logo-png_seeklogo-40219.png",
+   "kanit_url": "https://bykt.org/marka/derimod"
   },
   {
    "marka_adi": "Alcatel",
@@ -7449,6 +7470,13 @@
    "kanit_url": "https://bykt.org/marka/mng-kargo"
   },
   {
+   "marka_adi": "Bambi",
+   "kategori": "Ayakkabı",
+   "boykot_durumu": "İnsafa Bağlı",
+   "resim_url": "https://images.seeklogo.com/logo-png/36/1/bambi-logo-png_seeklogo-362356.png",
+   "kanit_url": "https://bykt.org/marka/bambi"
+  },
+  {
    "marka_adi": "Bitcoin",
    "kategori": "Finans",
    "boykot_durumu": "İnsafa Bağlı",
@@ -7932,6 +7960,13 @@
    "kanit_url": "https://bykt.org/marka/tassimo"
   },
   {
+   "marka_adi": "Wrangler",
+   "kategori": "Giyim",
+   "boykot_durumu": "Kesin Boykot",
+   "resim_url": "https://images.seeklogo.com/logo-png/15/1/wrangler-logo-png_seeklogo-154041.png",
+   "kanit_url": "https://bykt.org/marka/wrangler"
+  },
+  {
    "marka_adi": "Bounty",
    "kategori": "Gıda",
    "boykot_durumu": "Kesin Boykot",
@@ -8119,6 +8154,13 @@
    "boykot_durumu": "Kesin Boykot",
    "resim_url": "https://images.seeklogo.com/logo-png/28/1/delta-air-lines-logo-png_seeklogo-289418.png",
    "kanit_url": "https://bykt.org/marka/delta-air-lines"
+  },
+  {
+   "marka_adi": "Aymar",
+   "kategori": "Gıda",
+   "boykot_durumu": "Alınabilir",
+   "resim_url": "http://www.aymar.com.tr/assets/img/header/logo.png",
+   "kanit_url": "https://bykt.org/marka/aymar"
   },
   {
    "marka_adi": "DS Automobiles",

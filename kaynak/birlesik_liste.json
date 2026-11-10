@@ -2800,9 +2800,9 @@
     "marka_gorselinin_dosya_yolu": "https://bykt.org/logos-card/atelier-rebul.webp",
     "boykot_dedektifi_boykot_durumu": null,
     "boykot_dedektifi_kanit_url": null,
-    "bykt_org_boykot_durumu": "Kesin Boykot",
+    "bykt_org_boykot_durumu": "Alınabilir",
     "bykt_org_kanit_url": "https://bykt.org/marka/atelier-rebul",
-    "updated_at": "2026-04-01T16:35:03.135017"
+    "updated_at": "2026-11-10T07:27:58.154664"
   },
   {
     "id": "4c8908ff-2e2d-5145-b9e6-9df335ebf3d8",
@@ -20081,9 +20081,9 @@
     "marka_gorselinin_dosya_yolu": "https://boykotservisi.com/uploads/brands/lc-waikiki-67.webp",
     "boykot_dedektifi_boykot_durumu": "Uygun",
     "boykot_dedektifi_kanit_url": "https://boykotdedektifi.com/b/lc-waikiki-67",
-    "bykt_org_boykot_durumu": "Alınabilir",
+    "bykt_org_boykot_durumu": "İnsafa Bağlı",
     "bykt_org_kanit_url": "https://bykt.org/marka/lc-waikiki-lcw",
-    "updated_at": "2026-11-09T18:57:05.429652"
+    "updated_at": "2026-11-10T07:27:58.154664"
   },
   {
     "id": "402fb576-9977-426a-852f-52f219331dd7",
@@ -28827,8 +28827,8 @@
     "boykot_dedektifi_boykot_durumu": "Boykot",
     "boykot_dedektifi_kanit_url": "https://boykotdedektifi.com/b/rama-450",
     "bykt_org_boykot_durumu": "Kesin Boykot",
-    "bykt_org_kanit_url": "https://bykt.org/marka/rama-margarin",
-    "updated_at": "2026-11-09T18:57:05.429652"
+    "bykt_org_kanit_url": "https://bykt.org/marka/rama",
+    "updated_at": "2026-11-10T07:27:58.154664"
   },
   {
     "id": "3f4a175d-0cfd-430d-8972-b7707e14a14b",
