@@ -3179,6 +3179,17 @@
     "updated_at": "2026-11-09T18:57:05.429652"
   },
   {
+    "id": "facccbf5-3e15-54a7-8dc6-773d80e12344",
+    "marka_adi": "Aymar",
+    "kategori": "Gıda",
+    "marka_gorselinin_dosya_yolu": "http://www.aymar.com.tr/assets/img/header/logo.png",
+    "boykot_dedektifi_boykot_durumu": null,
+    "boykot_dedektifi_kanit_url": null,
+    "bykt_org_boykot_durumu": "Alınabilir",
+    "bykt_org_kanit_url": "https://bykt.org/marka/aymar",
+    "updated_at": "2026-11-16T06:38:10.511970"
+  },
+  {
     "id": "ba9f9d19-676f-4c99-8edc-4983ab535f1d",
     "marka_adi": "Aymar Yağ",
     "kategori": "Temel Gıda",
@@ -3507,6 +3518,17 @@
     "bykt_org_boykot_durumu": null,
     "bykt_org_kanit_url": null,
     "updated_at": "2026-11-09T18:57:05.429652"
+  },
+  {
+    "id": "266e9302-2a21-56f2-b0a3-b83e7ce82d82",
+    "marka_adi": "Bambi",
+    "kategori": "Ayakkabı",
+    "marka_gorselinin_dosya_yolu": "https://images.seeklogo.com/logo-png/36/1/bambi-logo-png_seeklogo-362356.png",
+    "boykot_dedektifi_boykot_durumu": null,
+    "boykot_dedektifi_kanit_url": null,
+    "bykt_org_boykot_durumu": "İnsafa Bağlı",
+    "bykt_org_kanit_url": "https://bykt.org/marka/bambi",
+    "updated_at": "2026-11-16T06:38:10.511970"
   },
   {
     "id": "21538cbf-fcea-4b08-a4dc-bc6d78ca7dce",
@@ -9680,6 +9702,17 @@
     "updated_at": "2026-11-09T18:57:05.429652"
   },
   {
+    "id": "6b441f3d-80dd-547d-b96a-766a9c9d4c40",
+    "marka_adi": "Derimod",
+    "kategori": "Giyim - Ayakkabı",
+    "marka_gorselinin_dosya_yolu": "https://images.seeklogo.com/logo-png/4/1/derimod-logo-png_seeklogo-40219.png",
+    "boykot_dedektifi_boykot_durumu": null,
+    "boykot_dedektifi_kanit_url": null,
+    "bykt_org_boykot_durumu": "İnsafa Bağlı",
+    "bykt_org_kanit_url": "https://bykt.org/marka/derimod",
+    "updated_at": "2026-11-16T06:38:10.511970"
+  },
+  {
     "id": "bf0e015d-fccf-4c25-b7da-72e478b16bf7",
     "marka_adi": "Dermalogica",
     "kategori": "Cilt Bakımı",
@@ -15725,9 +15758,9 @@
     "marka_gorselinin_dosya_yolu": "https://boykotservisi.com/uploads/brands/helly-hansen-3309.webp",
     "boykot_dedektifi_boykot_durumu": "Ahlaken Boykot",
     "boykot_dedektifi_kanit_url": "https://boykotdedektifi.com/b/helly-hansen-3309",
-    "bykt_org_boykot_durumu": null,
-    "bykt_org_kanit_url": null,
-    "updated_at": "2026-11-09T18:57:05.429652"
+    "bykt_org_boykot_durumu": "Kesin Boykot",
+    "bykt_org_kanit_url": "https://bykt.org/marka/helly-hansen",
+    "updated_at": "2026-11-16T06:38:10.511970"
   },
   {
     "id": "fab93473-689e-4e62-88db-6c4d2951efef",
@@ -18706,9 +18739,9 @@
     "marka_gorselinin_dosya_yolu": "https://boykotservisi.com/uploads/brands/kinik-2794.webp",
     "boykot_dedektifi_boykot_durumu": "Şüpheli",
     "boykot_dedektifi_kanit_url": "https://boykotdedektifi.com/b/kinik-2794",
-    "bykt_org_boykot_durumu": null,
-    "bykt_org_kanit_url": null,
-    "updated_at": "2026-11-09T18:57:05.429652"
+    "bykt_org_boykot_durumu": "Kesin Boykot",
+    "bykt_org_kanit_url": "https://bykt.org/marka/kınık",
+    "updated_at": "2026-11-16T06:38:10.511970"
   },
   {
     "id": "78049a94-84fa-42da-96ca-7cd9e044d381",
@@ -20169,9 +20202,9 @@
     "marka_gorselinin_dosya_yolu": "https://boykotservisi.com/uploads/brands/lee-2994.webp",
     "boykot_dedektifi_boykot_durumu": "Boykot",
     "boykot_dedektifi_kanit_url": "https://boykotdedektifi.com/b/lee-2994",
-    "bykt_org_boykot_durumu": null,
-    "bykt_org_kanit_url": null,
-    "updated_at": "2026-11-09T18:57:05.429652"
+    "bykt_org_boykot_durumu": "Kesin Boykot",
+    "bykt_org_kanit_url": "https://bykt.org/marka/lee",
+    "updated_at": "2026-11-16T06:38:10.511970"
   },
   {
     "id": "d8f781c2-ff8c-412a-bdd5-48234f66e3ce",
@@ -20202,9 +20235,9 @@
     "marka_gorselinin_dosya_yolu": "https://boykotservisi.com/uploads/brands/lefties-2041.webp",
     "boykot_dedektifi_boykot_durumu": "İkincil Boykot",
     "boykot_dedektifi_kanit_url": "https://boykotdedektifi.com/b/lefties-2041",
-    "bykt_org_boykot_durumu": null,
-    "bykt_org_kanit_url": null,
-    "updated_at": "2026-11-09T18:57:05.429652"
+    "bykt_org_boykot_durumu": "Kesin Boykot",
+    "bykt_org_kanit_url": "https://bykt.org/marka/lefties",
+    "updated_at": "2026-11-16T06:38:10.511970"
   },
   {
     "id": "04934ed9-87d5-4f0a-8736-d193f60dec4c",
@@ -32967,6 +33000,17 @@
     "updated_at": "2026-11-09T18:57:05.429652"
   },
   {
+    "id": "f22f43f5-f131-53f6-a6df-007077ab5f1f",
+    "marka_adi": "Sultan Itriyat",
+    "kategori": "Kolonya",
+    "marka_gorselinin_dosya_yolu": "https://boykotservisi.com/uploads/brands/sultan-itriyat-4153.webp",
+    "boykot_dedektifi_boykot_durumu": "Uygun",
+    "boykot_dedektifi_kanit_url": "https://boykotdedektifi.com/b/sultan-itriyat-4153",
+    "bykt_org_boykot_durumu": null,
+    "bykt_org_kanit_url": null,
+    "updated_at": "2026-11-16T06:38:10.511970"
+  },
+  {
     "id": "abf7f279-1fb3-4e3b-bf3b-be7a5e842c90",
     "marka_adi": "Sultan Su",
     "kategori": "Su",
@@ -37725,9 +37769,9 @@
     "marka_gorselinin_dosya_yolu": "https://boykotservisi.com/uploads/brands/wrangler-3061.webp",
     "boykot_dedektifi_boykot_durumu": "Boykot",
     "boykot_dedektifi_kanit_url": "https://boykotdedektifi.com/b/wrangler-3061",
-    "bykt_org_boykot_durumu": null,
-    "bykt_org_kanit_url": null,
-    "updated_at": "2026-11-09T18:57:05.429652"
+    "bykt_org_boykot_durumu": "Kesin Boykot",
+    "bykt_org_kanit_url": "https://bykt.org/marka/wrangler",
+    "updated_at": "2026-11-16T06:38:10.511970"
   },
   {
     "id": "bd2c020f-bcb9-415d-a1df-d50dfa4e08d4",
