@@ -2123,16 +2123,6 @@
    "kanit_url": "https://boykotdedektifi.com/b/elektrabregenz-1362"
   },
   {
-   "marka_adi": "indesit",
-   "kategori": "Beyaz Eşya",
-   "kategoriler": [
-    "Beyaz Eşya"
-   ],
-   "boykot_durumu": "Boykot",
-   "resim_url": "https://boykotservisi.com/uploads/brands/indesit-3307.webp",
-   "kanit_url": "https://boykotdedektifi.com/b/indesit-3307"
-  },
-  {
    "marka_adi": "Snowa",
    "kategori": "Teknolojik Cihazlar",
    "kategoriler": [
@@ -2143,6 +2133,16 @@
    "boykot_durumu": "Uygun",
    "resim_url": "https://boykotservisi.com/uploads/brands/snowa-4151.webp",
    "kanit_url": "https://boykotdedektifi.com/b/snowa-4151"
+  },
+  {
+   "marka_adi": "indesit",
+   "kategori": "Beyaz Eşya",
+   "kategoriler": [
+    "Beyaz Eşya"
+   ],
+   "boykot_durumu": "Boykot",
+   "resim_url": "https://boykotservisi.com/uploads/brands/indesit-3307.webp",
+   "kanit_url": "https://boykotdedektifi.com/b/indesit-3307"
   },
   {
    "marka_adi": "AMD",
@@ -2396,16 +2396,6 @@
    "kanit_url": "https://boykotdedektifi.com/b/barni-1130"
   },
   {
-   "marka_adi": "Mikado",
-   "kategori": "Bisküvi",
-   "kategoriler": [
-    "Bisküvi"
-   ],
-   "boykot_durumu": "Boykot",
-   "resim_url": "https://boykotservisi.com/uploads/brands/mikado-1616.webp",
-   "kanit_url": "https://boykotdedektifi.com/b/mikado-1616"
-  },
-  {
    "marka_adi": "Bear",
    "kategori": "Bisküvi",
    "kategoriler": [
@@ -2414,6 +2404,16 @@
    "boykot_durumu": "Uygun",
    "resim_url": "https://boykotservisi.com/uploads/brands/bear-1185.webp",
    "kanit_url": "https://boykotdedektifi.com/b/bear-1185"
+  },
+  {
+   "marka_adi": "Mikado",
+   "kategori": "Bisküvi",
+   "kategoriler": [
+    "Bisküvi"
+   ],
+   "boykot_durumu": "Boykot",
+   "resim_url": "https://boykotservisi.com/uploads/brands/mikado-1616.webp",
+   "kanit_url": "https://boykotdedektifi.com/b/mikado-1616"
   },
   {
    "marka_adi": "Bisc8",
@@ -2705,6 +2705,16 @@
    "kanit_url": "https://boykotdedektifi.com/b/suavitel-1853"
   },
   {
+   "marka_adi": "Fleecy",
+   "kategori": "Çamaşır Yumuşatıcıları",
+   "kategoriler": [
+    "Çamaşır Yumuşatıcıları"
+   ],
+   "boykot_durumu": "Boykot",
+   "resim_url": "https://boykotdedektifi.com/assets/images/logo/brand4/fleecy.webp",
+   "kanit_url": "https://boykotdedektifi.com/b/fleecy-1374"
+  },
+  {
    "marka_adi": "Caldrea",
    "kategori": "Deterjan",
    "kategoriler": [
@@ -2717,16 +2727,6 @@
    "boykot_durumu": "Boykot",
    "resim_url": "https://boykotservisi.com/uploads/brands/caldrea-1238.webp",
    "kanit_url": "https://boykotdedektifi.com/b/caldrea-1238"
-  },
-  {
-   "marka_adi": "Fleecy",
-   "kategori": "Çamaşır Yumuşatıcıları",
-   "kategoriler": [
-    "Çamaşır Yumuşatıcıları"
-   ],
-   "boykot_durumu": "Boykot",
-   "resim_url": "https://boykotdedektifi.com/assets/images/logo/brand4/fleecy.webp",
-   "kanit_url": "https://boykotdedektifi.com/b/fleecy-1374"
   },
   {
    "marka_adi": "Klorak",
@@ -3869,6 +3869,16 @@
    "kanit_url": "https://boykotdedektifi.com/b/sephora-1821"
   },
   {
+   "marka_adi": "Avene",
+   "kategori": "Cilt Bakımı",
+   "kategoriler": [
+    "Cilt Bakımı"
+   ],
+   "boykot_durumu": "Uygun",
+   "resim_url": "https://boykotservisi.com/uploads/brands/avene-1100.webp",
+   "kanit_url": "https://boykotdedektifi.com/b/avene-1100"
+  },
+  {
    "marka_adi": "Garnier",
    "kategori": "Cilt Bakımı",
    "kategoriler": [
@@ -3878,16 +3888,6 @@
    "boykot_durumu": "Boykot",
    "resim_url": "https://boykotservisi.com/uploads/brands/garnier-808.webp",
    "kanit_url": "https://boykotdedektifi.com/b/garnier-808"
-  },
-  {
-   "marka_adi": "Avene",
-   "kategori": "Cilt Bakımı",
-   "kategoriler": [
-    "Cilt Bakımı"
-   ],
-   "boykot_durumu": "Uygun",
-   "resim_url": "https://boykotservisi.com/uploads/brands/avene-1100.webp",
-   "kanit_url": "https://boykotdedektifi.com/b/avene-1100"
   },
   {
    "marka_adi": "KIKO Milano",
@@ -4703,6 +4703,17 @@
    "kanit_url": "https://boykotdedektifi.com/b/sk-ii-1869"
   },
   {
+   "marka_adi": "cream co",
+   "kategori": "Kozmetik",
+   "kategoriler": [
+    "Kozmetik",
+    "Cilt Bakımı"
+   ],
+   "boykot_durumu": "Uygun",
+   "resim_url": "https://boykotservisi.com/uploads/brands/cream-co-3364.webp",
+   "kanit_url": "https://boykotdedektifi.com/b/cream-co-3364"
+  },
+  {
    "marka_adi": "Pond’s",
    "kategori": "Cilt Bakımı",
    "kategoriler": [
@@ -4721,17 +4732,6 @@
    "boykot_durumu": "İkincil Boykot",
    "resim_url": "https://boykotservisi.com/uploads/brands/coppertone-1244.webp",
    "kanit_url": "https://boykotdedektifi.com/b/coppertone-1244"
-  },
-  {
-   "marka_adi": "cream co",
-   "kategori": "Kozmetik",
-   "kategoriler": [
-    "Kozmetik",
-    "Cilt Bakımı"
-   ],
-   "boykot_durumu": "Uygun",
-   "resim_url": "https://boykotservisi.com/uploads/brands/cream-co-3364.webp",
-   "kanit_url": "https://boykotdedektifi.com/b/cream-co-3364"
   },
   {
    "marka_adi": "Florena",
@@ -5172,16 +5172,6 @@
    "kanit_url": "https://boykotdedektifi.com/b/sabritones-506"
   },
   {
-   "marka_adi": "Santitas",
-   "kategori": "Cips",
-   "kategoriler": [
-    "Cips"
-   ],
-   "boykot_durumu": "Boykot",
-   "resim_url": "https://boykotservisi.com/uploads/brands/santitas-474.webp",
-   "kanit_url": "https://boykotdedektifi.com/b/santitas-474"
-  },
-  {
    "marka_adi": "party",
    "kategori": "Cips",
    "kategoriler": [
@@ -5190,6 +5180,16 @@
    "boykot_durumu": "Uygun",
    "resim_url": "https://boykotservisi.com/uploads/brands/party-3177.webp",
    "kanit_url": "https://boykotdedektifi.com/b/party-3177"
+  },
+  {
+   "marka_adi": "Santitas",
+   "kategori": "Cips",
+   "kategoriler": [
+    "Cips"
+   ],
+   "boykot_durumu": "Boykot",
+   "resim_url": "https://boykotservisi.com/uploads/brands/santitas-474.webp",
+   "kanit_url": "https://boykotdedektifi.com/b/santitas-474"
   },
   {
    "marka_adi": "Baken Ets",
@@ -5626,16 +5626,6 @@
    "kanit_url": "https://boykotdedektifi.com/b/surf-1888"
   },
   {
-   "marka_adi": "Dixan",
-   "kategori": "Deterjan",
-   "kategoriler": [
-    "Deterjan"
-   ],
-   "boykot_durumu": "Boykot",
-   "resim_url": "https://boykotservisi.com/uploads/brands/dixan-1287.webp",
-   "kanit_url": "https://boykotdedektifi.com/b/dixan-1287"
-  },
-  {
    "marka_adi": "Diversey",
    "kategori": "Deterjan",
    "kategoriler": [
@@ -5645,6 +5635,16 @@
    "boykot_durumu": "Ahlaken Boykot",
    "resim_url": "https://boykotservisi.com/uploads/brands/diversey-2607.webp",
    "kanit_url": "https://boykotdedektifi.com/b/diversey-2607"
+  },
+  {
+   "marka_adi": "Dixan",
+   "kategori": "Deterjan",
+   "kategoriler": [
+    "Deterjan"
+   ],
+   "boykot_durumu": "Boykot",
+   "resim_url": "https://boykotservisi.com/uploads/brands/dixan-1287.webp",
+   "kanit_url": "https://boykotdedektifi.com/b/dixan-1287"
   },
   {
    "marka_adi": "Vizir",
@@ -6295,16 +6295,6 @@
    "kanit_url": "https://boykotdedektifi.com/b/scholler-1816"
   },
   {
-   "marka_adi": "Nuii",
-   "kategori": "Dondurma",
-   "kategoriler": [
-    "Dondurma"
-   ],
-   "boykot_durumu": "Boykot",
-   "resim_url": "https://boykotservisi.com/uploads/brands/nuii-1664.webp",
-   "kanit_url": "https://boykotdedektifi.com/b/nuii-1664"
-  },
-  {
    "marka_adi": "Adora",
    "kategori": "Dondurma",
    "kategoriler": [
@@ -6313,6 +6303,16 @@
    "boykot_durumu": "Uygun",
    "resim_url": "https://boykotservisi.com/uploads/brands/adora-3352.webp",
    "kanit_url": "https://boykotdedektifi.com/b/adora-3352"
+  },
+  {
+   "marka_adi": "Nuii",
+   "kategori": "Dondurma",
+   "kategoriler": [
+    "Dondurma"
+   ],
+   "boykot_durumu": "Boykot",
+   "resim_url": "https://boykotservisi.com/uploads/brands/nuii-1664.webp",
+   "kanit_url": "https://boykotdedektifi.com/b/nuii-1664"
   },
   {
    "marka_adi": "MİS Dondurma",
@@ -10495,16 +10495,6 @@
    "kanit_url": "https://boykotdedektifi.com/b/kenzo-1497"
   },
   {
-   "marka_adi": "Aker eşarp",
-   "kategori": "Giyim-Tekstil",
-   "kategoriler": [
-    "Giyim-Tekstil"
-   ],
-   "boykot_durumu": "Uygun",
-   "resim_url": "https://boykotservisi.com/uploads/brands/aker-esarp-2588.webp",
-   "kanit_url": "https://boykotdedektifi.com/b/aker-esarp-2588"
-  },
-  {
    "marka_adi": "Coach",
    "kategori": "Giyim-Tekstil",
    "kategoriler": [
@@ -10516,6 +10506,16 @@
    "kanit_url": "https://boykotdedektifi.com/b/coach-2830"
   },
   {
+   "marka_adi": "Aker eşarp",
+   "kategori": "Giyim-Tekstil",
+   "kategoriler": [
+    "Giyim-Tekstil"
+   ],
+   "boykot_durumu": "Uygun",
+   "resim_url": "https://boykotservisi.com/uploads/brands/aker-esarp-2588.webp",
+   "kanit_url": "https://boykotdedektifi.com/b/aker-esarp-2588"
+  },
+  {
    "marka_adi": "Delta Galil®",
    "kategori": "Giyim-Tekstil",
    "kategoriler": [
@@ -10524,6 +10524,17 @@
    "boykot_durumu": "Boykot",
    "resim_url": "https://boykotdedektifi.com/assets/images/logo/brand4/delta_galil.webp",
    "kanit_url": "https://boykotdedektifi.com/b/delta-galil-1332"
+  },
+  {
+   "marka_adi": "Swarovski",
+   "kategori": "Giyim-Tekstil",
+   "kategoriler": [
+    "Giyim-Tekstil",
+    "Takı"
+   ],
+   "boykot_durumu": "Ahlaken Boykot",
+   "resim_url": "https://boykotservisi.com/uploads/brands/swarovski-2779.webp",
+   "kanit_url": "https://boykotdedektifi.com/b/swarovski-2779"
   },
   {
    "marka_adi": "Aydın Örme",
@@ -10545,17 +10556,6 @@
    "boykot_durumu": "Boykot",
    "resim_url": "https://boykotservisi.com/uploads/brands/givenchy-881.webp",
    "kanit_url": "https://boykotdedektifi.com/b/givenchy-881"
-  },
-  {
-   "marka_adi": "Swarovski",
-   "kategori": "Giyim-Tekstil",
-   "kategoriler": [
-    "Giyim-Tekstil",
-    "Takı"
-   ],
-   "boykot_durumu": "Ahlaken Boykot",
-   "resim_url": "https://boykotservisi.com/uploads/brands/swarovski-2779.webp",
-   "kanit_url": "https://boykotdedektifi.com/b/swarovski-2779"
   },
   {
    "marka_adi": "Kaft",
@@ -10599,16 +10599,6 @@
    "kanit_url": "https://boykotdedektifi.com/b/banana-republic-115"
   },
   {
-   "marka_adi": "Silhouette",
-   "kategori": "Giyim-Tekstil",
-   "kategoriler": [
-    "Giyim-Tekstil"
-   ],
-   "boykot_durumu": "Boykot",
-   "resim_url": "https://boykotservisi.com/uploads/brands/silhouette-907.webp",
-   "kanit_url": "https://boykotdedektifi.com/b/silhouette-907"
-  },
-  {
    "marka_adi": "suwen",
    "kategori": "Giyim-Tekstil",
    "kategoriler": [
@@ -10617,6 +10607,16 @@
    "boykot_durumu": "Uygun",
    "resim_url": "https://boykotservisi.com/uploads/brands/suwen-3304.webp",
    "kanit_url": "https://boykotdedektifi.com/b/suwen-3304"
+  },
+  {
+   "marka_adi": "Silhouette",
+   "kategori": "Giyim-Tekstil",
+   "kategoriler": [
+    "Giyim-Tekstil"
+   ],
+   "boykot_durumu": "Boykot",
+   "resim_url": "https://boykotservisi.com/uploads/brands/silhouette-907.webp",
+   "kanit_url": "https://boykotdedektifi.com/b/silhouette-907"
   },
   {
    "marka_adi": "Loewe",
@@ -10813,16 +10813,6 @@
    "kanit_url": "https://boykotdedektifi.com/b/tonny-black-3317"
   },
   {
-   "marka_adi": "AKMODA",
-   "kategori": "Giyim-Tekstil",
-   "kategoriler": [
-    "Giyim-Tekstil"
-   ],
-   "boykot_durumu": "Uygun",
-   "resim_url": "https://boykotservisi.com/uploads/brands/akmoda-2503.webp",
-   "kanit_url": "https://boykotdedektifi.com/b/akmoda-2503"
-  },
-  {
    "marka_adi": "Tutku",
    "kategori": "Giyim-Tekstil",
    "kategoriler": [
@@ -10831,6 +10821,16 @@
    "boykot_durumu": "Uygun",
    "resim_url": "https://boykotservisi.com/uploads/brands/tutku-3053.webp",
    "kanit_url": "https://boykotdedektifi.com/b/tutku-3053"
+  },
+  {
+   "marka_adi": "AKMODA",
+   "kategori": "Giyim-Tekstil",
+   "kategoriler": [
+    "Giyim-Tekstil"
+   ],
+   "boykot_durumu": "Uygun",
+   "resim_url": "https://boykotservisi.com/uploads/brands/akmoda-2503.webp",
+   "kanit_url": "https://boykotdedektifi.com/b/akmoda-2503"
   },
   {
    "marka_adi": "Discovery Expedition",
@@ -10954,16 +10954,6 @@
    "kanit_url": "https://boykotdedektifi.com/b/combat-tactical-2667"
   },
   {
-   "marka_adi": "OSP",
-   "kategori": "Giyim-Tekstil",
-   "kategoriler": [
-    "Giyim-Tekstil"
-   ],
-   "boykot_durumu": "İkincil Boykot",
-   "resim_url": "https://boykotservisi.com/uploads/brands/osp-1697.webp",
-   "kanit_url": "https://boykotdedektifi.com/b/osp-1697"
-  },
-  {
    "marka_adi": "Letoon",
    "kategori": "Giyim-Tekstil",
    "kategoriler": [
@@ -10972,6 +10962,16 @@
    "boykot_durumu": "Uygun",
    "resim_url": "https://boykotservisi.com/uploads/brands/letoon-3280.webp",
    "kanit_url": "https://boykotdedektifi.com/b/letoon-3280"
+  },
+  {
+   "marka_adi": "OSP",
+   "kategori": "Giyim-Tekstil",
+   "kategoriler": [
+    "Giyim-Tekstil"
+   ],
+   "boykot_durumu": "İkincil Boykot",
+   "resim_url": "https://boykotservisi.com/uploads/brands/osp-1697.webp",
+   "kanit_url": "https://boykotdedektifi.com/b/osp-1697"
   },
   {
    "marka_adi": "Bosideng",
@@ -11088,16 +11088,6 @@
    "kanit_url": "https://boykotdedektifi.com/b/kate-spade-2931"
   },
   {
-   "marka_adi": "Dickies",
-   "kategori": "Giyim-Tekstil",
-   "kategoriler": [
-    "Giyim-Tekstil"
-   ],
-   "boykot_durumu": "Boykot",
-   "resim_url": "https://boykotservisi.com/uploads/brands/dickies-2751.webp",
-   "kanit_url": "https://boykotdedektifi.com/b/dickies-2751"
-  },
-  {
    "marka_adi": "Kipling",
    "kategori": "Giyim-Tekstil",
    "kategoriler": [
@@ -11106,6 +11096,16 @@
    "boykot_durumu": "Boykot",
    "resim_url": "https://boykotservisi.com/uploads/brands/kipling-2749.webp",
    "kanit_url": "https://boykotdedektifi.com/b/kipling-2749"
+  },
+  {
+   "marka_adi": "Dickies",
+   "kategori": "Giyim-Tekstil",
+   "kategoriler": [
+    "Giyim-Tekstil"
+   ],
+   "boykot_durumu": "Boykot",
+   "resim_url": "https://boykotservisi.com/uploads/brands/dickies-2751.webp",
+   "kanit_url": "https://boykotdedektifi.com/b/dickies-2751"
   },
   {
    "marka_adi": "Napapijri",
@@ -12446,16 +12446,6 @@
    "kanit_url": "https://boykotdedektifi.com/b/chaudfontaine-1261"
   },
   {
-   "marka_adi": "Minute Maid",
-   "kategori": "İçecek",
-   "kategoriler": [
-    "İçecek"
-   ],
-   "boykot_durumu": "Boykot",
-   "resim_url": "https://boykotservisi.com/uploads/brands/minute-maid-1645.webp",
-   "kanit_url": "https://boykotdedektifi.com/b/minute-maid-1645"
-  },
-  {
    "marka_adi": "Zico",
    "kategori": "İçecek",
    "kategoriler": [
@@ -12464,6 +12454,16 @@
    "boykot_durumu": "Boykot",
    "resim_url": "https://boykotservisi.com/uploads/brands/zico-2017.webp",
    "kanit_url": "https://boykotdedektifi.com/b/zico-2017"
+  },
+  {
+   "marka_adi": "Minute Maid",
+   "kategori": "İçecek",
+   "kategoriler": [
+    "İçecek"
+   ],
+   "boykot_durumu": "Boykot",
+   "resim_url": "https://boykotservisi.com/uploads/brands/minute-maid-1645.webp",
+   "kanit_url": "https://boykotdedektifi.com/b/minute-maid-1645"
   },
   {
    "marka_adi": "Dooy",
@@ -13181,16 +13181,6 @@
    "kanit_url": "https://boykotdedektifi.com/b/alarko-holding-2901"
   },
   {
-   "marka_adi": "Prysmian",
-   "kategori": "İnşaat-Tesisat",
-   "kategoriler": [
-    "İnşaat-Tesisat"
-   ],
-   "boykot_durumu": "Uygun",
-   "resim_url": "https://boykotservisi.com/uploads/brands/prysmian-2347.webp",
-   "kanit_url": "https://boykotdedektifi.com/b/prysmian-2347"
-  },
-  {
    "marka_adi": "SG Rigips",
    "kategori": "İnşaat-Tesisat",
    "kategoriler": [
@@ -13199,6 +13189,16 @@
    "boykot_durumu": "İkincil Boykot",
    "resim_url": "https://boykotservisi.com/uploads/brands/sg-rigips-2189.webp",
    "kanit_url": "https://boykotdedektifi.com/b/sg-rigips-2189"
+  },
+  {
+   "marka_adi": "Prysmian",
+   "kategori": "İnşaat-Tesisat",
+   "kategoriler": [
+    "İnşaat-Tesisat"
+   ],
+   "boykot_durumu": "Uygun",
+   "resim_url": "https://boykotservisi.com/uploads/brands/prysmian-2347.webp",
+   "kanit_url": "https://boykotdedektifi.com/b/prysmian-2347"
   },
   {
    "marka_adi": "Geberit",
@@ -13292,16 +13292,6 @@
    "kanit_url": "https://boykotdedektifi.com/b/onaptan-2188"
   },
   {
-   "marka_adi": "Mono Electric",
-   "kategori": "İnşaat-Tesisat",
-   "kategoriler": [
-    "İnşaat-Tesisat"
-   ],
-   "boykot_durumu": "Uygun",
-   "resim_url": "https://boykotservisi.com/uploads/brands/mono-electric-2210.webp",
-   "kanit_url": "https://boykotdedektifi.com/b/mono-electric-2210"
-  },
-  {
    "marka_adi": "Yaparlar",
    "kategori": "İnşaat-Tesisat",
    "kategoriler": [
@@ -13310,6 +13300,16 @@
    "boykot_durumu": "Uygun",
    "resim_url": "https://boykotservisi.com/uploads/brands/yaparlar-2319.webp",
    "kanit_url": "https://boykotdedektifi.com/b/yaparlar-2319"
+  },
+  {
+   "marka_adi": "Mono Electric",
+   "kategori": "İnşaat-Tesisat",
+   "kategoriler": [
+    "İnşaat-Tesisat"
+   ],
+   "boykot_durumu": "Uygun",
+   "resim_url": "https://boykotservisi.com/uploads/brands/mono-electric-2210.webp",
+   "kanit_url": "https://boykotdedektifi.com/b/mono-electric-2210"
   },
   {
    "marka_adi": "Sanica",
@@ -13322,16 +13322,6 @@
    "kanit_url": "https://boykotdedektifi.com/b/sanica-2198"
   },
   {
-   "marka_adi": "Bostik",
-   "kategori": "İnşaat-Tesisat",
-   "kategoriler": [
-    "İnşaat-Tesisat"
-   ],
-   "boykot_durumu": "Boykot",
-   "resim_url": "https://boykotservisi.com/uploads/brands/bostik-1136.webp",
-   "kanit_url": "https://boykotdedektifi.com/b/bostik-1136"
-  },
-  {
    "marka_adi": "Ege Vitrifiye",
    "kategori": "İnşaat-Tesisat",
    "kategoriler": [
@@ -13340,6 +13330,16 @@
    "boykot_durumu": "Uygun",
    "resim_url": "https://boykotdedektifi.com/assets/images/logo/drawable/egevitrifiye.webp",
    "kanit_url": "https://boykotdedektifi.com/b/ege-vitrifiye-2191"
+  },
+  {
+   "marka_adi": "Bostik",
+   "kategori": "İnşaat-Tesisat",
+   "kategoriler": [
+    "İnşaat-Tesisat"
+   ],
+   "boykot_durumu": "Boykot",
+   "resim_url": "https://boykotservisi.com/uploads/brands/bostik-1136.webp",
+   "kanit_url": "https://boykotdedektifi.com/b/bostik-1136"
   },
   {
    "marka_adi": "Metylan",
@@ -13533,16 +13533,6 @@
    "kanit_url": "https://boykotdedektifi.com/b/alarko-2826"
   },
   {
-   "marka_adi": "Selnova",
-   "kategori": "İnşaat-Tesisat",
-   "kategoriler": [
-    "İnşaat-Tesisat"
-   ],
-   "boykot_durumu": "Boykot",
-   "resim_url": "https://boykotservisi.com/uploads/brands/selnova-2763.webp",
-   "kanit_url": "https://boykotdedektifi.com/b/selnova-2763"
-  },
-  {
    "marka_adi": "Lignadecor",
    "kategori": "İnşaat-Tesisat",
    "kategoriler": [
@@ -13551,6 +13541,16 @@
    "boykot_durumu": "Uygun",
    "resim_url": "https://boykotservisi.com/uploads/brands/lignadecor-2627.webp",
    "kanit_url": "https://boykotdedektifi.com/b/lignadecor-2627"
+  },
+  {
+   "marka_adi": "Selnova",
+   "kategori": "İnşaat-Tesisat",
+   "kategoriler": [
+    "İnşaat-Tesisat"
+   ],
+   "boykot_durumu": "Boykot",
+   "resim_url": "https://boykotservisi.com/uploads/brands/selnova-2763.webp",
+   "kanit_url": "https://boykotdedektifi.com/b/selnova-2763"
   },
   {
    "marka_adi": "Otis asansör",
@@ -13635,16 +13635,6 @@
    "kanit_url": "https://boykotdedektifi.com/b/domino-s-pizza-308"
   },
   {
-   "marka_adi": "Burger King",
-   "kategori": "İşletme",
-   "kategoriler": [
-    "İşletme"
-   ],
-   "boykot_durumu": "Boykot",
-   "resim_url": "https://boykotservisi.com/uploads/brands/burger-king-29.webp",
-   "kanit_url": "https://boykotdedektifi.com/b/burger-king-29"
-  },
-  {
    "marka_adi": "Arby's Türkiye",
    "kategori": "İşletme",
    "kategoriler": [
@@ -13653,6 +13643,16 @@
    "boykot_durumu": "İkincil Boykot",
    "resim_url": "https://boykotservisi.com/uploads/brands/arby-s-turkiye-2528.webp",
    "kanit_url": "https://boykotdedektifi.com/b/arby-s-turkiye-2528"
+  },
+  {
+   "marka_adi": "Burger King",
+   "kategori": "İşletme",
+   "kategoriler": [
+    "İşletme"
+   ],
+   "boykot_durumu": "Boykot",
+   "resim_url": "https://boykotservisi.com/uploads/brands/burger-king-29.webp",
+   "kanit_url": "https://boykotdedektifi.com/b/burger-king-29"
   },
   {
    "marka_adi": "Popeyes",
@@ -13960,17 +13960,6 @@
    "boykot_durumu": "Boykot",
    "resim_url": "https://boykotdedektifi.com/assets/images/logo/brand4/dominos.webp",
    "kanit_url": "https://boykotdedektifi.com/b/dominos-1292"
-  },
-  {
-   "marka_adi": "Cajun Corner",
-   "kategori": "İşletme",
-   "kategoriler": [
-    "İşletme",
-    "Temel Gıda"
-   ],
-   "boykot_durumu": "Uygun",
-   "resim_url": "https://boykotservisi.com/uploads/brands/cajun-corner-2843.webp",
-   "kanit_url": "https://boykotdedektifi.com/b/cajun-corner-2843"
   },
   {
    "marka_adi": "Remax",
@@ -14365,6 +14354,16 @@
    "kanit_url": "https://boykotdedektifi.com/b/dunlop-lastik-2950"
   },
   {
+   "marka_adi": "Dost Kitabevi",
+   "kategori": "İşletme",
+   "kategoriler": [
+    "İşletme"
+   ],
+   "boykot_durumu": "Boykot",
+   "resim_url": "https://boykotservisi.com/uploads/brands/dost-kitabevi-4150.webp",
+   "kanit_url": "https://boykotdedektifi.com/b/dost-kitabevi-4150"
+  },
+  {
    "marka_adi": "Bana bak",
    "kategori": "İşletme",
    "kategoriler": [
@@ -14393,16 +14392,6 @@
    "boykot_durumu": "Boykot",
    "resim_url": "https://boykotservisi.com/uploads/brands/trivago-3295.webp",
    "kanit_url": "https://boykotdedektifi.com/b/trivago-3295"
-  },
-  {
-   "marka_adi": "Dost Kitabevi",
-   "kategori": "İşletme",
-   "kategoriler": [
-    "İşletme"
-   ],
-   "boykot_durumu": "Boykot",
-   "resim_url": "https://boykotservisi.com/uploads/brands/dost-kitabevi-4150.webp",
-   "kanit_url": "https://boykotdedektifi.com/b/dost-kitabevi-4150"
   },
   {
    "marka_adi": "Kellogg’s",
@@ -14902,16 +14891,6 @@
    "kanit_url": "https://boykotdedektifi.com/b/addis-ababa-coffee-2506"
   },
   {
-   "marka_adi": "Maxwell",
-   "kategori": "Kahve",
-   "kategoriler": [
-    "Kahve"
-   ],
-   "boykot_durumu": "Boykot",
-   "resim_url": "https://boykotservisi.com/uploads/brands/maxwell-1603.webp",
-   "kanit_url": "https://boykotdedektifi.com/b/maxwell-1603"
-  },
-  {
    "marka_adi": "Vip Kahve",
    "kategori": "Kahve",
    "kategoriler": [
@@ -14920,6 +14899,16 @@
    "boykot_durumu": "Uygun",
    "resim_url": "https://boykotservisi.com/uploads/brands/vip-kahve-3059.webp",
    "kanit_url": "https://boykotdedektifi.com/b/vip-kahve-3059"
+  },
+  {
+   "marka_adi": "Maxwell",
+   "kategori": "Kahve",
+   "kategoriler": [
+    "Kahve"
+   ],
+   "boykot_durumu": "Boykot",
+   "resim_url": "https://boykotservisi.com/uploads/brands/maxwell-1603.webp",
+   "kanit_url": "https://boykotdedektifi.com/b/maxwell-1603"
   },
   {
    "marka_adi": "Dallmayr",
@@ -15481,16 +15470,6 @@
    "kanit_url": "https://boykotdedektifi.com/b/orgins-889"
   },
   {
-   "marka_adi": "Astra",
-   "kategori": "Kişisel Bakım-Diğer",
-   "kategoriler": [
-    "Kişisel Bakım-Diğer"
-   ],
-   "boykot_durumu": "Boykot",
-   "resim_url": "https://boykotservisi.com/uploads/brands/astra-859.webp",
-   "kanit_url": "https://boykotdedektifi.com/b/astra-859"
-  },
-  {
    "marka_adi": "opalescence",
    "kategori": "Kişisel Bakım-Diğer",
    "kategoriler": [
@@ -15499,6 +15478,16 @@
    "boykot_durumu": "Uygun",
    "resim_url": "https://boykotservisi.com/uploads/brands/opalescence-3171.webp",
    "kanit_url": "https://boykotdedektifi.com/b/opalescence-3171"
+  },
+  {
+   "marka_adi": "Astra",
+   "kategori": "Kişisel Bakım-Diğer",
+   "kategoriler": [
+    "Kişisel Bakım-Diğer"
+   ],
+   "boykot_durumu": "Boykot",
+   "resim_url": "https://boykotservisi.com/uploads/brands/astra-859.webp",
+   "kanit_url": "https://boykotdedektifi.com/b/astra-859"
   },
   {
    "marka_adi": "Carefree",
@@ -17004,16 +16993,6 @@
    "kanit_url": "https://boykotdedektifi.com/b/inovadi-2521"
   },
   {
-   "marka_adi": "Ersağ",
-   "kategori": "Kozmetik",
-   "kategoriler": [
-    "Kozmetik"
-   ],
-   "boykot_durumu": "Uygun",
-   "resim_url": "https://boykotservisi.com/uploads/brands/ersag-3183.webp",
-   "kanit_url": "https://boykotdedektifi.com/b/ersag-3183"
-  },
-  {
    "marka_adi": "Rhode",
    "kategori": "Kozmetik",
    "kategoriler": [
@@ -17022,6 +17001,16 @@
    "boykot_durumu": "Boykot",
    "resim_url": "https://boykotservisi.com/uploads/brands/rhode-3292.webp",
    "kanit_url": "https://boykotdedektifi.com/b/rhode-3292"
+  },
+  {
+   "marka_adi": "Ersağ",
+   "kategori": "Kozmetik",
+   "kategoriler": [
+    "Kozmetik"
+   ],
+   "boykot_durumu": "Uygun",
+   "resim_url": "https://boykotservisi.com/uploads/brands/ersag-3183.webp",
+   "kanit_url": "https://boykotdedektifi.com/b/ersag-3183"
   },
   {
    "marka_adi": "Afrodita",
@@ -18713,16 +18702,6 @@
    "kanit_url": "https://boykotdedektifi.com/b/land-rover-2818"
   },
   {
-   "marka_adi": "Apec",
-   "kategori": "Otomotiv",
-   "kategoriler": [
-    "Otomotiv"
-   ],
-   "boykot_durumu": "Uygun",
-   "resim_url": "https://boykotservisi.com/uploads/brands/apec-2855.webp",
-   "kanit_url": "https://boykotdedektifi.com/b/apec-2855"
-  },
-  {
    "marka_adi": "Lamborghini",
    "kategori": "Otomotiv",
    "kategoriler": [
@@ -18731,6 +18710,16 @@
    "boykot_durumu": "Boykot",
    "resim_url": "https://boykotservisi.com/uploads/brands/lamborghini-2741.webp",
    "kanit_url": "https://boykotdedektifi.com/b/lamborghini-2741"
+  },
+  {
+   "marka_adi": "Apec",
+   "kategori": "Otomotiv",
+   "kategoriler": [
+    "Otomotiv"
+   ],
+   "boykot_durumu": "Uygun",
+   "resim_url": "https://boykotservisi.com/uploads/brands/apec-2855.webp",
+   "kanit_url": "https://boykotdedektifi.com/b/apec-2855"
   },
   {
    "marka_adi": "Maserati",
@@ -18913,16 +18902,6 @@
    "kanit_url": "https://boykotdedektifi.com/b/motolux-2873"
   },
   {
-   "marka_adi": "Bentley",
-   "kategori": "Otomotiv",
-   "kategoriler": [
-    "Otomotiv"
-   ],
-   "boykot_durumu": "Boykot",
-   "resim_url": "https://boykotservisi.com/uploads/brands/bentley-2742.webp",
-   "kanit_url": "https://boykotdedektifi.com/b/bentley-2742"
-  },
-  {
    "marka_adi": "Tata",
    "kategori": "Otomotiv",
    "kategoriler": [
@@ -18931,6 +18910,16 @@
    "boykot_durumu": "Boykot",
    "resim_url": "https://boykotservisi.com/uploads/brands/tata-2817.webp",
    "kanit_url": "https://boykotdedektifi.com/b/tata-2817"
+  },
+  {
+   "marka_adi": "Bentley",
+   "kategori": "Otomotiv",
+   "kategoriler": [
+    "Otomotiv"
+   ],
+   "boykot_durumu": "Boykot",
+   "resim_url": "https://boykotservisi.com/uploads/brands/bentley-2742.webp",
+   "kanit_url": "https://boykotdedektifi.com/b/bentley-2742"
   },
   {
    "marka_adi": "KTM",
@@ -18963,16 +18952,6 @@
    "kanit_url": "https://boykotdedektifi.com/b/moto-guzzi-2878"
   },
   {
-   "marka_adi": "Carraro",
-   "kategori": "Otomotiv",
-   "kategoriler": [
-    "Otomotiv"
-   ],
-   "boykot_durumu": "Boykot",
-   "resim_url": "https://boykotservisi.com/uploads/brands/carraro-3206.webp",
-   "kanit_url": "https://boykotdedektifi.com/b/carraro-3206"
-  },
-  {
    "marka_adi": "Voge",
    "kategori": "Otomotiv",
    "kategoriler": [
@@ -18981,6 +18960,16 @@
    "boykot_durumu": "İkincil Boykot",
    "resim_url": "https://boykotservisi.com/uploads/brands/voge-2858.webp",
    "kanit_url": "https://boykotdedektifi.com/b/voge-2858"
+  },
+  {
+   "marka_adi": "Carraro",
+   "kategori": "Otomotiv",
+   "kategoriler": [
+    "Otomotiv"
+   ],
+   "boykot_durumu": "Boykot",
+   "resim_url": "https://boykotservisi.com/uploads/brands/carraro-3206.webp",
+   "kanit_url": "https://boykotdedektifi.com/b/carraro-3206"
   },
   {
    "marka_adi": "Ducati",
@@ -19013,16 +19002,6 @@
    "kanit_url": "https://boykotdedektifi.com/b/gmc-2738"
   },
   {
-   "marka_adi": "Kymco",
-   "kategori": "Otomotiv",
-   "kategoriler": [
-    "Otomotiv"
-   ],
-   "boykot_durumu": "Şüpheli",
-   "resim_url": "https://boykotservisi.com/uploads/brands/kymco-2869.webp",
-   "kanit_url": "https://boykotdedektifi.com/b/kymco-2869"
-  },
-  {
    "marka_adi": "Benelli",
    "kategori": "Otomotiv",
    "kategoriler": [
@@ -19031,6 +19010,16 @@
    "boykot_durumu": "Boykot",
    "resim_url": "https://boykotservisi.com/uploads/brands/benelli-2875.webp",
    "kanit_url": "https://boykotdedektifi.com/b/benelli-2875"
+  },
+  {
+   "marka_adi": "Kymco",
+   "kategori": "Otomotiv",
+   "kategoriler": [
+    "Otomotiv"
+   ],
+   "boykot_durumu": "Şüpheli",
+   "resim_url": "https://boykotservisi.com/uploads/brands/kymco-2869.webp",
+   "kanit_url": "https://boykotdedektifi.com/b/kymco-2869"
   },
   {
    "marka_adi": "Zontes",
@@ -19053,16 +19042,6 @@
    "kanit_url": "https://boykotdedektifi.com/b/man-2743"
   },
   {
-   "marka_adi": "GasGas",
-   "kategori": "Otomotiv",
-   "kategoriler": [
-    "Otomotiv"
-   ],
-   "boykot_durumu": "Boykot",
-   "resim_url": "https://boykotservisi.com/uploads/brands/gasgas-2880.webp",
-   "kanit_url": "https://boykotdedektifi.com/b/gasgas-2880"
-  },
-  {
    "marka_adi": "Scania",
    "kategori": "Otomotiv",
    "kategoriler": [
@@ -19071,6 +19050,16 @@
    "boykot_durumu": "Boykot",
    "resim_url": "https://boykotservisi.com/uploads/brands/scania-2744.webp",
    "kanit_url": "https://boykotdedektifi.com/b/scania-2744"
+  },
+  {
+   "marka_adi": "GasGas",
+   "kategori": "Otomotiv",
+   "kategoriler": [
+    "Otomotiv"
+   ],
+   "boykot_durumu": "Boykot",
+   "resim_url": "https://boykotservisi.com/uploads/brands/gasgas-2880.webp",
+   "kanit_url": "https://boykotdedektifi.com/b/gasgas-2880"
   },
   {
    "marka_adi": "Lincoln",
@@ -19389,16 +19378,6 @@
    "kanit_url": "https://boykotdedektifi.com/b/steam-2686"
   },
   {
-   "marka_adi": "Brawl Stars",
-   "kategori": "Oyun",
-   "kategoriler": [
-    "Oyun"
-   ],
-   "boykot_durumu": "Boykot",
-   "resim_url": "https://boykotservisi.com/uploads/brands/brawl-stars-2573.webp",
-   "kanit_url": "https://boykotdedektifi.com/b/brawl-stars-2573"
-  },
-  {
    "marka_adi": "Playstation",
    "kategori": "Oyun",
    "kategoriler": [
@@ -19407,6 +19386,16 @@
    "boykot_durumu": "İkincil Boykot",
    "resim_url": "https://boykotservisi.com/uploads/brands/playstation-2606.webp",
    "kanit_url": "https://boykotdedektifi.com/b/playstation-2606"
+  },
+  {
+   "marka_adi": "Brawl Stars",
+   "kategori": "Oyun",
+   "kategoriler": [
+    "Oyun"
+   ],
+   "boykot_durumu": "Boykot",
+   "resim_url": "https://boykotservisi.com/uploads/brands/brawl-stars-2573.webp",
+   "kanit_url": "https://boykotdedektifi.com/b/brawl-stars-2573"
   },
   {
    "marka_adi": "EA",
@@ -19869,16 +19858,6 @@
    "kanit_url": "https://boykotdedektifi.com/b/my-child-lebensborn-3110"
   },
   {
-   "marka_adi": "The Witcher",
-   "kategori": "Oyun",
-   "kategoriler": [
-    "Oyun"
-   ],
-   "boykot_durumu": "Uygun",
-   "resim_url": "https://boykotservisi.com/uploads/brands/the-witcher-3119.webp",
-   "kanit_url": "https://boykotdedektifi.com/b/the-witcher-3119"
-  },
-  {
    "marka_adi": "ZULA",
    "kategori": "Oyun",
    "kategoriler": [
@@ -19887,6 +19866,16 @@
    "boykot_durumu": "Uygun",
    "resim_url": "https://boykotservisi.com/uploads/brands/zula-3172.webp",
    "kanit_url": "https://boykotdedektifi.com/b/zula-3172"
+  },
+  {
+   "marka_adi": "The Witcher",
+   "kategori": "Oyun",
+   "kategoriler": [
+    "Oyun"
+   ],
+   "boykot_durumu": "Uygun",
+   "resim_url": "https://boykotservisi.com/uploads/brands/the-witcher-3119.webp",
+   "kanit_url": "https://boykotdedektifi.com/b/the-witcher-3119"
   },
   {
    "marka_adi": "Mojang",
@@ -19909,16 +19898,6 @@
    "kanit_url": "https://boykotdedektifi.com/b/red-ball4-3102"
   },
   {
-   "marka_adi": "Hill Climb Racing",
-   "kategori": "Oyun",
-   "kategoriler": [
-    "Oyun"
-   ],
-   "boykot_durumu": "Uygun",
-   "resim_url": "https://boykotservisi.com/uploads/brands/hill-climb-racing-3108.webp",
-   "kanit_url": "https://boykotdedektifi.com/b/hill-climb-racing-3108"
-  },
-  {
    "marka_adi": "CANDY CRUSH",
    "kategori": "Oyun",
    "kategoriler": [
@@ -19927,6 +19906,16 @@
    "boykot_durumu": "Boykot",
    "resim_url": "https://boykotservisi.com/uploads/brands/candy-crush-2926.webp",
    "kanit_url": "https://boykotdedektifi.com/b/candy-crush-2926"
+  },
+  {
+   "marka_adi": "Hill Climb Racing",
+   "kategori": "Oyun",
+   "kategoriler": [
+    "Oyun"
+   ],
+   "boykot_durumu": "Uygun",
+   "resim_url": "https://boykotservisi.com/uploads/brands/hill-climb-racing-3108.webp",
+   "kanit_url": "https://boykotdedektifi.com/b/hill-climb-racing-3108"
   },
   {
    "marka_adi": "Zuuks Games",
@@ -20009,16 +19998,6 @@
    "kanit_url": "https://boykotdedektifi.com/b/tetris-3117"
   },
   {
-   "marka_adi": "Vector Classic",
-   "kategori": "Oyun",
-   "kategoriler": [
-    "Oyun"
-   ],
-   "boykot_durumu": "Uygun",
-   "resim_url": "https://boykotservisi.com/uploads/brands/vector-classic-3115.webp",
-   "kanit_url": "https://boykotdedektifi.com/b/vector-classic-3115"
-  },
-  {
    "marka_adi": "Red Dead Redemption",
    "kategori": "Oyun",
    "kategoriler": [
@@ -20027,6 +20006,16 @@
    "boykot_durumu": "Boykot",
    "resim_url": "https://boykotservisi.com/uploads/brands/red-dead-redemption-3120.webp",
    "kanit_url": "https://boykotdedektifi.com/b/red-dead-redemption-3120"
+  },
+  {
+   "marka_adi": "Vector Classic",
+   "kategori": "Oyun",
+   "kategoriler": [
+    "Oyun"
+   ],
+   "boykot_durumu": "Uygun",
+   "resim_url": "https://boykotservisi.com/uploads/brands/vector-classic-3115.webp",
+   "kanit_url": "https://boykotdedektifi.com/b/vector-classic-3115"
   },
   {
    "marka_adi": "age of empires",
@@ -20194,7 +20183,7 @@
    "kategoriler": [
     "Oyun"
    ],
-   "boykot_durumu": "Uygun",
+   "boykot_durumu": "Şüpheli",
    "resim_url": "https://boykotservisi.com/uploads/brands/world-of-tanks-3336.webp",
    "kanit_url": "https://boykotdedektifi.com/b/world-of-tanks-3336"
   },
@@ -21860,16 +21849,6 @@
    "kanit_url": "https://boykotdedektifi.com/b/natural-formula-1658"
   },
   {
-   "marka_adi": "Got2b",
-   "kategori": "Saç Bakımı",
-   "kategoriler": [
-    "Saç Bakımı"
-   ],
-   "boykot_durumu": "Boykot",
-   "resim_url": "https://boykotservisi.com/uploads/brands/got2b-1413.webp",
-   "kanit_url": "https://boykotdedektifi.com/b/got2b-1413"
-  },
-  {
    "marka_adi": "Glem",
    "kategori": "Saç Bakımı",
    "kategoriler": [
@@ -21878,6 +21857,16 @@
    "boykot_durumu": "Boykot",
    "resim_url": "https://boykotservisi.com/uploads/brands/glem-1409.webp",
    "kanit_url": "https://boykotdedektifi.com/b/glem-1409"
+  },
+  {
+   "marka_adi": "Got2b",
+   "kategori": "Saç Bakımı",
+   "kategoriler": [
+    "Saç Bakımı"
+   ],
+   "boykot_durumu": "Boykot",
+   "resim_url": "https://boykotservisi.com/uploads/brands/got2b-1413.webp",
+   "kanit_url": "https://boykotdedektifi.com/b/got2b-1413"
   },
   {
    "marka_adi": "Seah",
@@ -22481,16 +22470,6 @@
    "kanit_url": "https://boykotdedektifi.com/b/gamida-cell-749"
   },
   {
-   "marka_adi": "Pure Encapsulations",
-   "kategori": "Sağlık",
-   "kategoriler": [
-    "Sağlık"
-   ],
-   "boykot_durumu": "Boykot",
-   "resim_url": "https://boykotservisi.com/uploads/brands/pure-encapsulations-1769.webp",
-   "kanit_url": "https://boykotdedektifi.com/b/pure-encapsulations-1769"
-  },
-  {
    "marka_adi": "Paracetamol",
    "kategori": "Sağlık",
    "kategoriler": [
@@ -22499,6 +22478,16 @@
    "boykot_durumu": "Boykot",
    "resim_url": "https://boykotservisi.com/uploads/brands/paracetamol-1706.webp",
    "kanit_url": "https://boykotdedektifi.com/b/paracetamol-1706"
+  },
+  {
+   "marka_adi": "Pure Encapsulations",
+   "kategori": "Sağlık",
+   "kategoriler": [
+    "Sağlık"
+   ],
+   "boykot_durumu": "Boykot",
+   "resim_url": "https://boykotservisi.com/uploads/brands/pure-encapsulations-1769.webp",
+   "kanit_url": "https://boykotdedektifi.com/b/pure-encapsulations-1769"
   },
   {
    "marka_adi": "Sangobion",
@@ -22841,16 +22830,6 @@
    "kanit_url": "https://boykotdedektifi.com/b/clearblue-1220"
   },
   {
-   "marka_adi": "Elevit",
-   "kategori": "Sağlık",
-   "kategoriler": [
-    "Sağlık"
-   ],
-   "boykot_durumu": "Boykot",
-   "resim_url": "https://boykotservisi.com/uploads/brands/elevit-1330.webp",
-   "kanit_url": "https://boykotdedektifi.com/b/elevit-1330"
-  },
-  {
    "marka_adi": "Canesten",
    "kategori": "Sağlık",
    "kategoriler": [
@@ -22859,6 +22838,16 @@
    "boykot_durumu": "Boykot",
    "resim_url": "https://boykotservisi.com/uploads/brands/canesten-1204.webp",
    "kanit_url": "https://boykotdedektifi.com/b/canesten-1204"
+  },
+  {
+   "marka_adi": "Elevit",
+   "kategori": "Sağlık",
+   "kategoriler": [
+    "Sağlık"
+   ],
+   "boykot_durumu": "Boykot",
+   "resim_url": "https://boykotservisi.com/uploads/brands/elevit-1330.webp",
+   "kanit_url": "https://boykotdedektifi.com/b/elevit-1330"
   },
   {
    "marka_adi": "Better Doc",
@@ -22921,16 +22910,6 @@
    "kanit_url": "https://boykotdedektifi.com/b/aciclobene-1071"
   },
   {
-   "marka_adi": "Cepacol",
-   "kategori": "Sağlık",
-   "kategoriler": [
-    "Sağlık"
-   ],
-   "boykot_durumu": "Boykot",
-   "resim_url": "https://boykotservisi.com/uploads/brands/cepacol-1242.webp",
-   "kanit_url": "https://boykotdedektifi.com/b/cepacol-1242"
-  },
-  {
    "marka_adi": "Bensdorp",
    "kategori": "Sağlık",
    "kategoriler": [
@@ -22939,6 +22918,16 @@
    "boykot_durumu": "Boykot",
    "resim_url": "https://boykotservisi.com/uploads/brands/bensdorp-1143.webp",
    "kanit_url": "https://boykotdedektifi.com/b/bensdorp-1143"
+  },
+  {
+   "marka_adi": "Cepacol",
+   "kategori": "Sağlık",
+   "kategoriler": [
+    "Sağlık"
+   ],
+   "boykot_durumu": "Boykot",
+   "resim_url": "https://boykotservisi.com/uploads/brands/cepacol-1242.webp",
+   "kanit_url": "https://boykotdedektifi.com/b/cepacol-1242"
   },
   {
    "marka_adi": "ZzzQuil",
@@ -23881,16 +23870,6 @@
    "kanit_url": "https://boykotdedektifi.com/b/endearmints-1367"
   },
   {
-   "marka_adi": "Smarties",
-   "kategori": "Sakız-Şekerleme",
-   "kategoriler": [
-    "Sakız-Şekerleme"
-   ],
-   "boykot_durumu": "Boykot",
-   "resim_url": "https://boykotservisi.com/uploads/brands/smarties-1833.webp",
-   "kanit_url": "https://boykotdedektifi.com/b/smarties-1833"
-  },
-  {
    "marka_adi": "Clorets",
    "kategori": "Sakız-Şekerleme",
    "kategoriler": [
@@ -23899,6 +23878,16 @@
    "boykot_durumu": "Boykot",
    "resim_url": "https://boykotservisi.com/uploads/brands/clorets-1258.webp",
    "kanit_url": "https://boykotdedektifi.com/b/clorets-1258"
+  },
+  {
+   "marka_adi": "Smarties",
+   "kategori": "Sakız-Şekerleme",
+   "kategoriler": [
+    "Sakız-Şekerleme"
+   ],
+   "boykot_durumu": "Boykot",
+   "resim_url": "https://boykotservisi.com/uploads/brands/smarties-1833.webp",
+   "kanit_url": "https://boykotdedektifi.com/b/smarties-1833"
   },
   {
    "marka_adi": "Şoray Çikolata",
@@ -25143,16 +25132,6 @@
    "kanit_url": "https://boykotdedektifi.com/b/pepsico-grup-415"
   },
   {
-   "marka_adi": "Berkshire Hathaway",
-   "kategori": "Şirket",
-   "kategoriler": [
-    "Şirket"
-   ],
-   "boykot_durumu": "Boykot",
-   "resim_url": "https://boykotservisi.com/uploads/brands/berkshire-hathaway-757.webp",
-   "kanit_url": "https://boykotdedektifi.com/b/berkshire-hathaway-757"
-  },
-  {
    "marka_adi": "Aselsan",
    "kategori": "Şirket",
    "kategoriler": [
@@ -25161,6 +25140,16 @@
    "boykot_durumu": "Uygun",
    "resim_url": "https://boykotservisi.com/uploads/brands/aselsan-945.webp",
    "kanit_url": "https://boykotdedektifi.com/b/aselsan-945"
+  },
+  {
+   "marka_adi": "Berkshire Hathaway",
+   "kategori": "Şirket",
+   "kategoriler": [
+    "Şirket"
+   ],
+   "boykot_durumu": "Boykot",
+   "resim_url": "https://boykotservisi.com/uploads/brands/berkshire-hathaway-757.webp",
+   "kanit_url": "https://boykotdedektifi.com/b/berkshire-hathaway-757"
   },
   {
    "marka_adi": "American Express",
@@ -25673,16 +25662,6 @@
    "kanit_url": "https://boykotdedektifi.com/b/sanipak-2666"
   },
   {
-   "marka_adi": "Cooknkeep",
-   "kategori": "Şirket",
-   "kategoriler": [
-    "Şirket"
-   ],
-   "boykot_durumu": "Uygun",
-   "resim_url": "https://boykotservisi.com/uploads/brands/cooknkeep-2935.webp",
-   "kanit_url": "https://boykotdedektifi.com/b/cooknkeep-2935"
-  },
-  {
    "marka_adi": "3G Capital",
    "kategori": "Şirket",
    "kategoriler": [
@@ -25691,6 +25670,16 @@
    "boykot_durumu": "Boykot",
    "resim_url": "https://boykotservisi.com/uploads/brands/3g-capital-2833.webp",
    "kanit_url": "https://boykotdedektifi.com/b/3g-capital-2833"
+  },
+  {
+   "marka_adi": "Cooknkeep",
+   "kategori": "Şirket",
+   "kategoriler": [
+    "Şirket"
+   ],
+   "boykot_durumu": "Uygun",
+   "resim_url": "https://boykotservisi.com/uploads/brands/cooknkeep-2935.webp",
+   "kanit_url": "https://boykotdedektifi.com/b/cooknkeep-2935"
   },
   {
    "marka_adi": "Kübaş",
@@ -27274,16 +27263,6 @@
    "kanit_url": "https://boykotdedektifi.com/b/vacherel-1967"
   },
   {
-   "marka_adi": "Violife",
-   "kategori": "Süt Ürünleri",
-   "kategoriler": [
-    "Süt Ürünleri"
-   ],
-   "boykot_durumu": "Boykot",
-   "resim_url": "https://boykotservisi.com/uploads/brands/violife-1959.webp",
-   "kanit_url": "https://boykotdedektifi.com/b/violife-1959"
-  },
-  {
    "marka_adi": "Oikos",
    "kategori": "Süt Ürünleri",
    "kategoriler": [
@@ -27292,6 +27271,16 @@
    "boykot_durumu": "Boykot",
    "resim_url": "https://boykotservisi.com/uploads/brands/oikos-1676.webp",
    "kanit_url": "https://boykotdedektifi.com/b/oikos-1676"
+  },
+  {
+   "marka_adi": "Violife",
+   "kategori": "Süt Ürünleri",
+   "kategoriler": [
+    "Süt Ürünleri"
+   ],
+   "boykot_durumu": "Boykot",
+   "resim_url": "https://boykotservisi.com/uploads/brands/violife-1959.webp",
+   "kanit_url": "https://boykotdedektifi.com/b/violife-1959"
   },
   {
    "marka_adi": "Locatelli",
@@ -27634,16 +27623,6 @@
    "kanit_url": "https://boykotdedektifi.com/b/hektas-2808"
   },
   {
-   "marka_adi": "Haifa Group",
-   "kategori": "Tarım-Ziraat",
-   "kategoriler": [
-    "Tarım-Ziraat"
-   ],
-   "boykot_durumu": "Boykot",
-   "resim_url": "https://boykotservisi.com/uploads/brands/haifa-group-2714.webp",
-   "kanit_url": "https://boykotdedektifi.com/b/haifa-group-2714"
-  },
-  {
    "marka_adi": "Sumitomo Chemical",
    "kategori": "Tarım-Ziraat",
    "kategoriler": [
@@ -27652,6 +27631,16 @@
    "boykot_durumu": "Boykot",
    "resim_url": "https://boykotservisi.com/uploads/brands/sumitomo-chemical-2707.webp",
    "kanit_url": "https://boykotdedektifi.com/b/sumitomo-chemical-2707"
+  },
+  {
+   "marka_adi": "Haifa Group",
+   "kategori": "Tarım-Ziraat",
+   "kategoriler": [
+    "Tarım-Ziraat"
+   ],
+   "boykot_durumu": "Boykot",
+   "resim_url": "https://boykotservisi.com/uploads/brands/haifa-group-2714.webp",
+   "kanit_url": "https://boykotdedektifi.com/b/haifa-group-2714"
   },
   {
    "marka_adi": "erkunt traktör",
@@ -27684,16 +27673,6 @@
    "kanit_url": "https://boykotdedektifi.com/b/upl-2705"
   },
   {
-   "marka_adi": "Jumars Seeds",
-   "kategori": "Tarım-Ziraat",
-   "kategoriler": [
-    "Tarım-Ziraat"
-   ],
-   "boykot_durumu": "Boykot",
-   "resim_url": "https://boykotservisi.com/uploads/brands/jumars-seeds-2725.webp",
-   "kanit_url": "https://boykotdedektifi.com/b/jumars-seeds-2725"
-  },
-  {
    "marka_adi": "aydın pulluk",
    "kategori": "Tarım-Ziraat",
    "kategoriler": [
@@ -27702,6 +27681,16 @@
    "boykot_durumu": "Uygun",
    "resim_url": "https://boykotservisi.com/uploads/brands/aydin-pulluk-3074.webp",
    "kanit_url": "https://boykotdedektifi.com/b/aydin-pulluk-3074"
+  },
+  {
+   "marka_adi": "Jumars Seeds",
+   "kategori": "Tarım-Ziraat",
+   "kategoriler": [
+    "Tarım-Ziraat"
+   ],
+   "boykot_durumu": "Boykot",
+   "resim_url": "https://boykotservisi.com/uploads/brands/jumars-seeds-2725.webp",
+   "kanit_url": "https://boykotdedektifi.com/b/jumars-seeds-2725"
   },
   {
    "marka_adi": "Koppert Biological",
@@ -27714,16 +27703,6 @@
    "kanit_url": "https://boykotdedektifi.com/b/koppert-biological-2712"
   },
   {
-   "marka_adi": "Hazera Seeds",
-   "kategori": "Tarım-Ziraat",
-   "kategoriler": [
-    "Tarım-Ziraat"
-   ],
-   "boykot_durumu": "Boykot",
-   "resim_url": "https://boykotservisi.com/uploads/brands/hazera-seeds-2720.webp",
-   "kanit_url": "https://boykotdedektifi.com/b/hazera-seeds-2720"
-  },
-  {
    "marka_adi": "netafim",
    "kategori": "Tarım-Ziraat",
    "kategoriler": [
@@ -27732,6 +27711,16 @@
    "boykot_durumu": "Boykot",
    "resim_url": "https://boykotservisi.com/uploads/brands/netafim-2801.webp",
    "kanit_url": "https://boykotdedektifi.com/b/netafim-2801"
+  },
+  {
+   "marka_adi": "Hazera Seeds",
+   "kategori": "Tarım-Ziraat",
+   "kategoriler": [
+    "Tarım-Ziraat"
+   ],
+   "boykot_durumu": "Boykot",
+   "resim_url": "https://boykotservisi.com/uploads/brands/hazera-seeds-2720.webp",
+   "kanit_url": "https://boykotdedektifi.com/b/hazera-seeds-2720"
   },
   {
    "marka_adi": "Azelis",
@@ -27774,16 +27763,6 @@
    "kanit_url": "https://boykotdedektifi.com/b/sadeh-2715"
   },
   {
-   "marka_adi": "Platin kimya",
-   "kategori": "Tarım-Ziraat",
-   "kategoriler": [
-    "Tarım-Ziraat"
-   ],
-   "boykot_durumu": "Uygun",
-   "resim_url": "https://boykotservisi.com/uploads/brands/platin-kimya-2805.webp",
-   "kanit_url": "https://boykotdedektifi.com/b/platin-kimya-2805"
-  },
-  {
    "marka_adi": "Stoller",
    "kategori": "Tarım-Ziraat",
    "kategoriler": [
@@ -27792,6 +27771,16 @@
    "boykot_durumu": "Boykot",
    "resim_url": "https://boykotservisi.com/uploads/brands/stoller-2717.webp",
    "kanit_url": "https://boykotdedektifi.com/b/stoller-2717"
+  },
+  {
+   "marka_adi": "Platin kimya",
+   "kategori": "Tarım-Ziraat",
+   "kategoriler": [
+    "Tarım-Ziraat"
+   ],
+   "boykot_durumu": "Uygun",
+   "resim_url": "https://boykotservisi.com/uploads/brands/platin-kimya-2805.webp",
+   "kanit_url": "https://boykotdedektifi.com/b/platin-kimya-2805"
   },
   {
    "marka_adi": "Top Seeds International",
@@ -27894,6 +27883,16 @@
    "kanit_url": "https://boykotdedektifi.com/b/sinochem-2708"
   },
   {
+   "marka_adi": "Doğal kimya",
+   "kategori": "Tarım-Ziraat",
+   "kategoriler": [
+    "Tarım-Ziraat"
+   ],
+   "boykot_durumu": "Uygun",
+   "resim_url": "https://boykotservisi.com/uploads/brands/dogal-kimya-2809.webp",
+   "kanit_url": "https://boykotdedektifi.com/b/dogal-kimya-2809"
+  },
+  {
    "marka_adi": "agrom agricaltural",
    "kategori": "Tarım-Ziraat",
    "kategoriler": [
@@ -27912,16 +27911,6 @@
    "boykot_durumu": "Uygun",
    "resim_url": "https://boykotservisi.com/uploads/brands/alptar-tarim-makinalari-3075.webp",
    "kanit_url": "https://boykotdedektifi.com/b/alptar-tarim-makinalari-3075"
-  },
-  {
-   "marka_adi": "Doğal kimya",
-   "kategori": "Tarım-Ziraat",
-   "kategoriler": [
-    "Tarım-Ziraat"
-   ],
-   "boykot_durumu": "Uygun",
-   "resim_url": "https://boykotservisi.com/uploads/brands/dogal-kimya-2809.webp",
-   "kanit_url": "https://boykotdedektifi.com/b/dogal-kimya-2809"
   },
   {
    "marka_adi": "yılfert",
@@ -28485,16 +28474,6 @@
    "kanit_url": "https://boykotdedektifi.com/b/electrip-1364"
   },
   {
-   "marka_adi": "Taboola",
-   "kategori": "Teknolojik Cihazlar",
-   "kategoriler": [
-    "Teknolojik Cihazlar"
-   ],
-   "boykot_durumu": "Boykot",
-   "resim_url": "https://boykotservisi.com/uploads/brands/taboola-783.webp",
-   "kanit_url": "https://boykotdedektifi.com/b/taboola-783"
-  },
-  {
    "marka_adi": "Atlassian",
    "kategori": "Teknolojik Cihazlar",
    "kategoriler": [
@@ -28503,6 +28482,16 @@
    "boykot_durumu": "Boykot",
    "resim_url": "https://boykotservisi.com/uploads/brands/atlassian-781.webp",
    "kanit_url": "https://boykotdedektifi.com/b/atlassian-781"
+  },
+  {
+   "marka_adi": "Taboola",
+   "kategori": "Teknolojik Cihazlar",
+   "kategoriler": [
+    "Teknolojik Cihazlar"
+   ],
+   "boykot_durumu": "Boykot",
+   "resim_url": "https://boykotservisi.com/uploads/brands/taboola-783.webp",
+   "kanit_url": "https://boykotdedektifi.com/b/taboola-783"
   },
   {
    "marka_adi": "Powertec",
@@ -28525,6 +28514,16 @@
    "kanit_url": "https://boykotdedektifi.com/b/mova-3016"
   },
   {
+   "marka_adi": "panasonic",
+   "kategori": "Teknolojik Cihazlar",
+   "kategoriler": [
+    "Teknolojik Cihazlar"
+   ],
+   "boykot_durumu": "Boykot",
+   "resim_url": "https://boykotservisi.com/uploads/brands/panasonic-3320.webp",
+   "kanit_url": "https://boykotdedektifi.com/b/panasonic-3320"
+  },
+  {
    "marka_adi": "Align",
    "kategori": "Teknolojik Cihazlar",
    "kategoriler": [
@@ -28543,16 +28542,6 @@
    "boykot_durumu": "Boykot",
    "resim_url": "https://boykotservisi.com/uploads/brands/rentalcars-com-780.webp",
    "kanit_url": "https://boykotdedektifi.com/b/rentalcars-com-780"
-  },
-  {
-   "marka_adi": "panasonic",
-   "kategori": "Teknolojik Cihazlar",
-   "kategoriler": [
-    "Teknolojik Cihazlar"
-   ],
-   "boykot_durumu": "Boykot",
-   "resim_url": "https://boykotservisi.com/uploads/brands/panasonic-3320.webp",
-   "kanit_url": "https://boykotdedektifi.com/b/panasonic-3320"
   },
   {
    "marka_adi": "Hikvision",
@@ -29385,16 +29374,6 @@
    "kanit_url": "https://boykotdedektifi.com/b/yuva-maya-2245"
   },
   {
-   "marka_adi": "Arifoğlu",
-   "kategori": "Temel Gıda",
-   "kategoriler": [
-    "Temel Gıda"
-   ],
-   "boykot_durumu": "Uygun",
-   "resim_url": "https://boykotservisi.com/uploads/brands/arifoglu-967.webp",
-   "kanit_url": "https://boykotdedektifi.com/b/arifoglu-967"
-  },
-  {
    "marka_adi": "Maydanoz Döner",
    "kategori": "Temel Gıda",
    "kategoriler": [
@@ -29403,6 +29382,16 @@
    "boykot_durumu": "Uygun",
    "resim_url": "https://boykotservisi.com/uploads/brands/maydanoz-doner-2760.webp",
    "kanit_url": "https://boykotdedektifi.com/b/maydanoz-doner-2760"
+  },
+  {
+   "marka_adi": "Arifoğlu",
+   "kategori": "Temel Gıda",
+   "kategoriler": [
+    "Temel Gıda"
+   ],
+   "boykot_durumu": "Uygun",
+   "resim_url": "https://boykotservisi.com/uploads/brands/arifoglu-967.webp",
+   "kanit_url": "https://boykotdedektifi.com/b/arifoglu-967"
   },
   {
    "marka_adi": "Flora",
@@ -29615,16 +29604,6 @@
    "kanit_url": "https://boykotdedektifi.com/b/foodspring-711"
   },
   {
-   "marka_adi": "Kan Tong",
-   "kategori": "Temel Gıda",
-   "kategoriler": [
-    "Temel Gıda"
-   ],
-   "boykot_durumu": "Boykot",
-   "resim_url": "https://boykotservisi.com/uploads/brands/kan-tong-691.webp",
-   "kanit_url": "https://boykotdedektifi.com/b/kan-tong-691"
-  },
-  {
    "marka_adi": "Dips And Salsas",
    "kategori": "Temel Gıda",
    "kategoriler": [
@@ -29633,6 +29612,16 @@
    "boykot_durumu": "Boykot",
    "resim_url": "https://boykotservisi.com/uploads/brands/dips-and-salsas-494.webp",
    "kanit_url": "https://boykotdedektifi.com/b/dips-and-salsas-494"
+  },
+  {
+   "marka_adi": "Kan Tong",
+   "kategori": "Temel Gıda",
+   "kategoriler": [
+    "Temel Gıda"
+   ],
+   "boykot_durumu": "Boykot",
+   "resim_url": "https://boykotservisi.com/uploads/brands/kan-tong-691.webp",
+   "kanit_url": "https://boykotdedektifi.com/b/kan-tong-691"
   },
   {
    "marka_adi": "Karadeniz Birlik Yağ",
@@ -29845,16 +29834,6 @@
    "kanit_url": "https://boykotdedektifi.com/b/flavaco-1398"
   },
   {
-   "marka_adi": "Bizim Vatan",
-   "kategori": "Temel Gıda",
-   "kategoriler": [
-    "Temel Gıda"
-   ],
-   "boykot_durumu": "Boykot",
-   "resim_url": "https://boykotservisi.com/uploads/brands/bizim-vatan-3148.webp",
-   "kanit_url": "https://boykotdedektifi.com/b/bizim-vatan-3148"
-  },
-  {
    "marka_adi": "Perfect Snacks",
    "kategori": "Temel Gıda",
    "kategoriler": [
@@ -29863,6 +29842,16 @@
    "boykot_durumu": "Boykot",
    "resim_url": "https://boykotservisi.com/uploads/brands/perfect-snacks-1712.webp",
    "kanit_url": "https://boykotdedektifi.com/b/perfect-snacks-1712"
+  },
+  {
+   "marka_adi": "Bizim Vatan",
+   "kategori": "Temel Gıda",
+   "kategoriler": [
+    "Temel Gıda"
+   ],
+   "boykot_durumu": "Boykot",
+   "resim_url": "https://boykotservisi.com/uploads/brands/bizim-vatan-3148.webp",
+   "kanit_url": "https://boykotdedektifi.com/b/bizim-vatan-3148"
   },
   {
    "marka_adi": "Rummo",
@@ -30125,16 +30114,6 @@
    "kanit_url": "https://boykotdedektifi.com/b/kuner-1531"
   },
   {
-   "marka_adi": "Efsane",
-   "kategori": "Temel Gıda",
-   "kategoriler": [
-    "Temel Gıda"
-   ],
-   "boykot_durumu": "Uygun",
-   "resim_url": "https://boykotservisi.com/uploads/brands/efsane-3226.webp",
-   "kanit_url": "https://boykotdedektifi.com/b/efsane-3226"
-  },
-  {
    "marka_adi": "M.Z. Ege Çiğ Köfte",
    "kategori": "Temel Gıda",
    "kategoriler": [
@@ -30143,6 +30122,16 @@
    "boykot_durumu": "Uygun",
    "resim_url": "https://boykotservisi.com/uploads/brands/m-z-ege-cig-kofte-3001.webp",
    "kanit_url": "https://boykotdedektifi.com/b/m-z-ege-cig-kofte-3001"
+  },
+  {
+   "marka_adi": "Efsane",
+   "kategori": "Temel Gıda",
+   "kategoriler": [
+    "Temel Gıda"
+   ],
+   "boykot_durumu": "Uygun",
+   "resim_url": "https://boykotservisi.com/uploads/brands/efsane-3226.webp",
+   "kanit_url": "https://boykotdedektifi.com/b/efsane-3226"
   },
   {
    "marka_adi": "Maizena",
@@ -30215,16 +30204,6 @@
    "kanit_url": "https://boykotdedektifi.com/b/mutfagim-3224"
   },
   {
-   "marka_adi": "Wild Planet",
-   "kategori": "Temel Gıda",
-   "kategoriler": [
-    "Temel Gıda"
-   ],
-   "boykot_durumu": "Boykot",
-   "resim_url": "https://boykotservisi.com/uploads/brands/wild-planet-1984.webp",
-   "kanit_url": "https://boykotdedektifi.com/b/wild-planet-1984"
-  },
-  {
    "marka_adi": "Emin",
    "kategori": "Temel Gıda",
    "kategoriler": [
@@ -30235,14 +30214,14 @@
    "kanit_url": "https://boykotdedektifi.com/b/emin-3223"
   },
   {
-   "marka_adi": "dudomi nuddle",
+   "marka_adi": "Wild Planet",
    "kategori": "Temel Gıda",
    "kategoriler": [
     "Temel Gıda"
    ],
-   "boykot_durumu": "Uygun",
-   "resim_url": "https://boykotservisi.com/uploads/brands/dudomi-nuddle-3209.webp",
-   "kanit_url": "https://boykotdedektifi.com/b/dudomi-nuddle-3209"
+   "boykot_durumu": "Boykot",
+   "resim_url": "https://boykotservisi.com/uploads/brands/wild-planet-1984.webp",
+   "kanit_url": "https://boykotdedektifi.com/b/wild-planet-1984"
   },
   {
    "marka_adi": "donas",
@@ -30253,6 +30232,16 @@
    "boykot_durumu": "Uygun",
    "resim_url": "https://boykotservisi.com/uploads/brands/donas-3184.webp",
    "kanit_url": "https://boykotdedektifi.com/b/donas-3184"
+  },
+  {
+   "marka_adi": "dudomi nuddle",
+   "kategori": "Temel Gıda",
+   "kategoriler": [
+    "Temel Gıda"
+   ],
+   "boykot_durumu": "Uygun",
+   "resim_url": "https://boykotservisi.com/uploads/brands/dudomi-nuddle-3209.webp",
+   "kanit_url": "https://boykotdedektifi.com/b/dudomi-nuddle-3209"
   },
   {
    "marka_adi": "Proteinocean",
@@ -30305,16 +30294,6 @@
    "kanit_url": "https://boykotdedektifi.com/b/rioba-3039"
   },
   {
-   "marka_adi": "Destan (baharat)",
-   "kategori": "Temel Gıda",
-   "kategoriler": [
-    "Temel Gıda"
-   ],
-   "boykot_durumu": "Uygun",
-   "resim_url": "https://boykotservisi.com/uploads/brands/destan-baharat-3227.webp",
-   "kanit_url": "https://boykotdedektifi.com/b/destan-baharat-3227"
-  },
-  {
    "marka_adi": "Osmanoğlu",
    "kategori": "Temel Gıda",
    "kategoriler": [
@@ -30323,6 +30302,16 @@
    "boykot_durumu": "Uygun",
    "resim_url": "https://boykotservisi.com/uploads/brands/osmanoglu-3025.webp",
    "kanit_url": "https://boykotdedektifi.com/b/osmanoglu-3025"
+  },
+  {
+   "marka_adi": "Destan (baharat)",
+   "kategori": "Temel Gıda",
+   "kategoriler": [
+    "Temel Gıda"
+   ],
+   "boykot_durumu": "Uygun",
+   "resim_url": "https://boykotservisi.com/uploads/brands/destan-baharat-3227.webp",
+   "kanit_url": "https://boykotdedektifi.com/b/destan-baharat-3227"
   },
   {
    "marka_adi": "Ajinomoto Co.",
@@ -31375,16 +31364,6 @@
    "kanit_url": "https://boykotdedektifi.com/b/salesforce-790"
   },
   {
-   "marka_adi": "Epam",
-   "kategori": "Yazılım",
-   "kategoriler": [
-    "Yazılım"
-   ],
-   "boykot_durumu": "İkincil Boykot",
-   "resim_url": "https://boykotservisi.com/uploads/brands/epam-765.webp",
-   "kanit_url": "https://boykotdedektifi.com/b/epam-765"
-  },
-  {
    "marka_adi": "Turk telekom",
    "kategori": "Yazılım",
    "kategoriler": [
@@ -31393,6 +31372,16 @@
    "boykot_durumu": "Uygun",
    "resim_url": "https://boykotservisi.com/uploads/brands/turk-telekom-3258.webp",
    "kanit_url": "https://boykotdedektifi.com/b/turk-telekom-3258"
+  },
+  {
+   "marka_adi": "Epam",
+   "kategori": "Yazılım",
+   "kategoriler": [
+    "Yazılım"
+   ],
+   "boykot_durumu": "İkincil Boykot",
+   "resim_url": "https://boykotservisi.com/uploads/brands/epam-765.webp",
+   "kanit_url": "https://boykotdedektifi.com/b/epam-765"
   },
   {
    "marka_adi": "MyHeritage",
@@ -31915,16 +31904,6 @@
    "kanit_url": "https://boykotdedektifi.com/b/danklorix-1274"
   },
   {
-   "marka_adi": "Null-Null",
-   "kategori": "Yüzey Temizliği",
-   "kategoriler": [
-    "Yüzey Temizliği"
-   ],
-   "boykot_durumu": "Boykot",
-   "resim_url": "https://boykotdedektifi.com/assets/images/logo/brand4/null_null.webp",
-   "kanit_url": "https://boykotdedektifi.com/b/null-null-1665"
-  },
-  {
    "marka_adi": "Antikal",
    "kategori": "Yüzey Temizliği",
    "kategoriler": [
@@ -31933,6 +31912,16 @@
    "boykot_durumu": "Boykot",
    "resim_url": "https://boykotservisi.com/uploads/brands/antikal-1094.webp",
    "kanit_url": "https://boykotdedektifi.com/b/antikal-1094"
+  },
+  {
+   "marka_adi": "Null-Null",
+   "kategori": "Yüzey Temizliği",
+   "kategoriler": [
+    "Yüzey Temizliği"
+   ],
+   "boykot_durumu": "Boykot",
+   "resim_url": "https://boykotdedektifi.com/assets/images/logo/brand4/null_null.webp",
+   "kanit_url": "https://boykotdedektifi.com/b/null-null-1665"
   },
   {
    "marka_adi": "Scrubbing Bubbles",
